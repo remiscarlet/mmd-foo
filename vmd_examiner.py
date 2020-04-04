@@ -47,6 +47,8 @@ FILE_STRUCTURE = [
     ("version", 30, str),
     ("model_name", 20, str),
     ("bone_frames_len", 4, int),
+]
+"""
     [
         (BoneFrame),
         ("bone_name", 15, str),
@@ -61,13 +63,13 @@ FILE_STRUCTURE = [
         ("frame_interpo", 64, str),
     ],
 ]
+"""
 
 def convertByteArrayToType(b_arr, t):
     cleaned_arr = bytearray()
     #for b in b_arr:
     #    if b != b'\x00':
     #        cleaned_arr.add(b)
-    print(b_arr, cleaned_arr)
 
     if t is str:
         b_converted = b_arr.strip(b'\x00').decode(ENCODING)
@@ -79,8 +81,15 @@ def convertByteArrayToType(b_arr, t):
     return b_converted
 
 def grabBytes(contents, offset, length):
-    b = contents[offset:offset+length]
-    return b
+    content_b = contents[offset:offset+length]
+    rtn_b = bytearray()
+    print("GRABBING BYTES")
+    for b in content_b:
+        print(b)
+        if b != b'\x00':
+            rtn_b += bytearray(b)
+    print("RETURNING BYTES")
+    return rtn_b
 
 with open(FILENAME, "rb") as f:
     contents = bytearray(f.read())
