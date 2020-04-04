@@ -1,18 +1,18 @@
 package main
 
 import (
-	"fmt"
 	"encoding/binary"
-	"io/ioutil"
+	"fmt"
 	"golang.org/x/text/encoding/japanese"
 	"golang.org/x/text/transform"
+	"io/ioutil"
 )
 
 func readBytes(contents []byte, offset int, size int) ([]byte, error) {
 	//rtn_bytes := make([]byte, size)
-	content := contents[offset:offset+size]
+	content := contents[offset : offset+size]
 	//for i, b := range content {
-		//fmt.Printf("%d) %s - %X\n", i, string(b), b)
+	//fmt.Printf("%d) %s - %X\n", i, string(b), b)
 	//}
 	//fmt.Printf("+_+_+_+_+_+_+_\n")
 	//fmt.Printf("%X\n", content)
@@ -33,21 +33,21 @@ func printBytes(bytes []byte) {
 	//fmt.Println(x)
 }
 
-
 type BoneFrame struct {
-	BoneName string
-	FrameId int
-	X float64
-	Y float64
-	Z float64
-	X_rq float64
-	Y_rq float64
-	Z_rq float64
-	W_rq float64
+	BoneName     string
+	FrameId      int
+	X            float64
+	Y            float64
+	Z            float64
+	X_rq         float64
+	Y_rq         float64
+	Z_rq         float64
+	W_rq         float64
 	FrameInterpo []byte
 }
 
 type Type int
+
 const (
 	STRING Type = iota
 	INT
@@ -56,13 +56,14 @@ const (
 )
 
 type FileStructureSection struct {
-	Name string
-	ByteLen int
-	Type Type
-	RawContent []byte
+	Name           string
+	ByteLen        int
+	Type           Type
+	RawContent     []byte
 	DecodedContent []byte
 }
-func (sect *FileStructureSection) DecodeContent(){
+
+func (sect *FileStructureSection) DecodeContent() {
 	switch sect.Type {
 	case STRING:
 		s, _, err := transform.Bytes(japanese.ShiftJIS.NewDecoder(), sect.RawContent)
@@ -90,7 +91,7 @@ func getFileStructure() []FileStructureSection {
 }
 
 func main() {
-    filename := "motion.vmd"
+	filename := "motion.vmd"
 	//encoding := "cp932"
 
 	content, err := ioutil.ReadFile(filename)
@@ -113,6 +114,4 @@ func main() {
 		OFFSET += section.ByteLen
 	}
 
-
 }
-
