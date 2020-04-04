@@ -1,47 +1,48 @@
 package main
 
 import (
-	"fmt"
-	"math"
-	"strings"
 	"encoding/binary"
-	"io/ioutil"
+	"fmt"
 	"golang.org/x/text/encoding/japanese"
 	"golang.org/x/text/transform"
+	"io/ioutil"
+	"math"
+	"strings"
 )
 
 func readBytes(contents *[]byte, offset int, size int) ([]byte, error) {
-	content := (*contents)[offset:offset+size]
+	content := (*contents)[offset : offset+size]
 	return content, nil
 }
 
 func float32FromBytes(bytes []byte) float32 {
-    bits := binary.BigEndian.Uint32(bytes)
-    float := math.Float32frombits(bits)
-    return float
+	bits := binary.BigEndian.Uint32(bytes)
+	float := math.Float32frombits(bits)
+	return float
 }
 
 func float32Bytes(float float32) []byte {
-    bits := math.Float32bits(float)
-    bytes := make([]byte, 8)
-    binary.BigEndian.PutUint32(bytes, bits)
-    return bytes
+	bits := math.Float32bits(float)
+	bytes := make([]byte, 8)
+	binary.BigEndian.PutUint32(bytes, bits)
+	return bytes
 }
 
 type BoneFrame struct {
-	BoneName string
-	FrameId int
-	X float64
-	Y float64
-	Z float64
-	X_rq float64
-	Y_rq float64
-	Z_rq float64
-	W_rq float64
+	BoneName     string
+	FrameId      int
+	X            float64
+	Y            float64
+	Z            float64
+	X_rq         float64
+	Y_rq         float64
+	Z_rq         float64
+	W_rq         float64
 	FrameInterpo []byte
 }
 
 type Type int
+
 const (
 	STRING Type = iota
 	INT
@@ -51,12 +52,13 @@ const (
 )
 
 type FileStructureSection struct {
-	Name string
-	ByteLen int
-	Type Type
+	Name       string
+	ByteLen    int
+	Type       Type
 	RawContent []byte
-	SubSect []FileStructureSection
+	SubSect    []FileStructureSection
 }
+
 func (sect *FileStructureSection) DecodeContent() interface{} {
 	switch sect.Type {
 	case STRING:
@@ -165,7 +167,7 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 }
 
 func main() {
-    filename := "motion.vmd"
+	filename := "motion.vmd"
 	//encoding := "cp932"
 
 	content, err := ioutil.ReadFile(filename)
