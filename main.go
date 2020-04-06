@@ -10,9 +10,25 @@ import (
 	"strings"
 )
 
-func readBytes(contents *[]byte, offset int, size int) ([]byte, error) {
+func truncateFromNullTerm(bytes *[]byte) *[]byte {
+	rtn_size := len(*bytes)
+	for i, b := range *bytes {
+		if b == byte('\000') {
+			rtn_size = i
+			break
+		}
+	}
+	rtn_bytes := make([]byte, rtn_size)
+	copied_bytes_n := copy(rtn_bytes, *bytes)
+	if copied_bytes_n == 0 {
+		fmt.Println("Copied zero bytes - is that right?")
+	}
+	return &rtn_bytes
+}
+
+func readBytes(contents *[]byte, offset int, size int) (*[]byte, int, error) {
 	content := (*contents)[offset : offset+size]
-	return content, nil
+	return &content, offset + size, nil
 }
 
 func float32FromBytes(bytes []byte) float32 {
@@ -55,24 +71,25 @@ type FileStructureSection struct {
 	Name       string
 	ByteLen    int
 	Type       Type
-	RawContent []byte
-	SubSect    []FileStructureSection
+	RawContent *[]byte
+	SubSect    []*FileStructureSection
 }
 
 func (sect *FileStructureSection) DecodeContent() interface{} {
 	switch sect.Type {
 	case STRING:
-		s, _, err := transform.Bytes(japanese.ShiftJIS.NewDecoder(), sect.RawContent)
+		bytes := truncateFromNullTerm(sect.RawContent)
+		s, _, err := transform.Bytes(japanese.ShiftJIS.NewDecoder(), *bytes)
 		if err != nil {
 			panic(err)
 		}
 		return s
 	case INT:
-		x := binary.BigEndian.Uint32(sect.RawContent)
+		x := binary.BigEndian.Uint32(*sect.RawContent)
 		return x
 	case FLOAT:
 		fmt.Println("o shit")
-		f := float32FromBytes(sect.RawContent)
+		f := float32FromBytes(*sect.RawContent)
 		fmt.Println(f)
 		return f
 	}
@@ -86,7 +103,7 @@ func (sect *FileStructureSection) PrintContent() {
 	fmt.Printf("%d\n", data)
 }
 
-func (sect *FileStructureSection) SetRawContent(b_arr []byte) {
+func (sect *FileStructureSection) SetRawContent(b_arr *[]byte) {
 	sect.RawContent = b_arr
 }
 
@@ -127,20 +144,22 @@ func getFileStructure() []*FileStructureSection {
 }
 
 func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET int) (map[string]*FileStructureSection, int, error) {
+	var bytes_val *[]byte
+	var err error
+
 	populated_structures := make(map[string]*FileStructureSection)
 	for i, section := range structure {
 		if section.IsSimpleSection() {
 			// Its own section
-			val, err := readBytes(content, OFFSET, section.ByteLen)
+			bytes_val, OFFSET, err = readBytes(content, OFFSET, section.ByteLen)
 			if err != nil {
 				panic(err)
 			}
-			section.SetRawContent(val)
+			section.SetRawContent(bytes_val)
 			section.PrintContent()
 
-			fmt.Printf("%d) %v\n", i, section)
+			fmt.Printf("%d) %v - bytes: %v\n", i, section, *section.RawContent)
 			populated_structures[section.Name] = section
-			OFFSET += section.ByteLen
 		} else {
 			// Has subsections
 			fmt.Println("WIP")
@@ -149,16 +168,22 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 			section_name_base := strings.Split(section.Name, ":")[0]
 			section_count := populated_structures[section_name_base+":count"].DecodeContent()
 			fmt.Printf("%v\n", section_count)
-			switch section.Type {
-			case BONEFRAMES_SUBSECT:
-				boneframe_structure := getBoneFrameStructure()
-				populated_subsect, OFFSET, err := loadStructures(boneframe_structure, content, OFFSET)
-				if err != nil {
-					panic(err)
+			//for frame_idx := 0; frame_idx <= section_count; frame_idx++ {
+			for frame_idx := 0; frame_idx <= 5; frame_idx++ {
+				fmt.Println("++++++++++++++++++++++++++++++++++++++++++++")
+				switch section.Type {
+				case BONEFRAMES_SUBSECT:
+					var populated_subsect map[string]*FileStructureSection
+
+					boneframe_structure := getBoneFrameStructure()
+					fmt.Printf("Loading boneframe structures with OFFSET %d\n", OFFSET)
+					populated_subsect, OFFSET, err = loadStructures(boneframe_structure, content, OFFSET)
+					if err != nil {
+						panic(err)
+					}
+					fmt.Printf("SUBSECT: %v\n", populated_subsect)
+					fmt.Printf("OFFSET: %d\n", OFFSET)
 				}
-				fmt.Printf("SUBSECT: %v\n", populated_subsect)
-				fmt.Printf("OFFSET: %d\n", OFFSET)
-				break
 			}
 		}
 	}
