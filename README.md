@@ -1,9 +1,6 @@
 # What is this
 
-idk, random stuff.
+Random MMD-related shit.
 
-Resources:
-- https://mikumikudance.fandom.com/wiki/VMD_file_format
-
-Motion file from:
-- https://www.nicovideo.jp/watch/sm32113909
+### Also doing version history for MMD projects.
+Because why _not_ version control?

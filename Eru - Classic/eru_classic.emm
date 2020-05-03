@@ -1,0 +1,128 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray.x
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of day.pmx
+Pmd3 = G:\Google Drive\MMD\Models\Stages\City Escape (Generations)\CityEscape.pmx
+Pmd4 = G:\Google Drive\MMD\Models\Characters\MMDƒGƒ‹ƒ‚ƒfƒ‹(1011)\ƒGƒ‹2.pmx
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray_controller.pmx
+Acs6 = G:\Google Drive\MMD\MME\SoftParticleEngine_ver1_0_32_64\SoftParticleEngine.x
+
+[Effect]
+Default = none
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of day.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd3.show = true
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd4.show = true
+Pmd5 = none
+
+[Effect@EnvLightMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of lighting.fx
+Pmd2.show = true
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@FogMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = none
+Pmd2.show = false
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@LightMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = none
+Pmd2.show = false
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@MaterialMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@PSSM1]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@PSSM2]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@PSSM3]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@PSSM4]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@SSAOMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd5 = none
+Pmd5.show = false
+Acs6.show = false
+
+[Effect@DepthMapRT]
+Owner = Acs6
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\SoftParticleEngine_ver1_0_32_64\SoftParticleEngine_DepthOut.fxsub
+Pmd3 = G:\Google Drive\MMD\MME\SoftParticleEngine_ver1_0_32_64\SoftParticleEngine_DepthOut.fxsub
+Pmd4 = G:\Google Drive\MMD\MME\SoftParticleEngine_ver1_0_32_64\SoftParticleEngine_DepthOut.fxsub
+Pmd5 = G:\Google Drive\MMD\MME\SoftParticleEngine_ver1_0_32_64\SoftParticleEngine_DepthOut.fxsub
+Acs6.show = false
+
