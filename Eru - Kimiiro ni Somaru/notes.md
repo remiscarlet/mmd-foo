@@ -1,0 +1,1 @@
+2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
