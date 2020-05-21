@@ -24,14 +24,20 @@
 - For slow/non movements on the choreo, use shots from behind.
 	- Or just use shots from behind more often.
 - If choreo has finger pointing/moving with the model looking in that direction, position camera where they're pointing?
-
-
-
-  
+- Generally take advantage of mirrored movements/"larger picture" movements.
+	- Isn't this the same thing as the continuity comment?
+- For faster/frequent cuts, either have the bg or the model moving, but don't move both. Moving both just feels motion sick. 
+	- Good example: https://youtu.be/bQs3I6cMQUI?t=163
 
 ## Focal length shift usages
 - "Zoom in" feel without zooming in
 - Can generally keeps a shot from looking too static (don't overdo though)
+
+## DoF
+- Start out of focus and shift into focus with camera movement
+
+## FX
+- idk htf they did it but pizacg changes the bokeh shape. Native ray-mmd?
 
 ## MME
 - ray-mmd
@@ -57,8 +63,16 @@
 - [Project Diva rips](https://www.deviantart.com/flyingspirits-p/journal/Project-Diva-Motion-Convert-MMD-Downloads-798970572)
 - [BeammanP Wiki](https://w.atwiki.jp/beamman/)
 - [Stages](https://www.deviantart.com/mmd-stages)
+- [deadsilvervirus](https://www.deviantart.com/o-deadsilvervirus-o/gallery/56065516/mmd-download)
+- [raymmd](https://learnmmd.com/http:/learnmmd.com/using-raycast-mmd-like-a-pro/)
+- [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
 
 ## Channels/Pages
 - [神](https://www.nicovideo.jp/user/421727/video)
 - [MOKA](https://www.youtube.com/channel/UCuITEWz9SRl-k2Ftjq_1Vaw)
 - [PizaCG](https://www.youtube.com/channel/UCpKgRpioJ1pMvIC9vqLzuGw)
+- [銀時愛P](https://seiga.nicovideo.jp/user/illust/22024414)
+- [那由他](https://w.atwiki.jp/nayutaworksltd/pages/1.html)
+- [極東ロデオ](http://hhp.x0.to/rodeo/3d/)
+- [kiribayasi](https://ch.nicovideo.jp/kiribayasi/blomaga/ar1027449)
+- [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437)
