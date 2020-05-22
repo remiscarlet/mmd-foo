@@ -57,22 +57,30 @@
 - UE has some nice [rendering docs](https://docs.unrealengine.com/en-US/Engine/Rendering/index.html)
 - Color Grading
 - AA
--  
-
-## Random Links
-- [Project Diva rips](https://www.deviantart.com/flyingspirits-p/journal/Project-Diva-Motion-Convert-MMD-Downloads-798970572)
-- [BeammanP Wiki](https://w.atwiki.jp/beamman/)
-- [Stages](https://www.deviantart.com/mmd-stages)
-- [deadsilvervirus](https://www.deviantart.com/o-deadsilvervirus-o/gallery/56065516/mmd-download)
-- [raymmd](https://learnmmd.com/http:/learnmmd.com/using-raycast-mmd-like-a-pro/)
-- [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
 
 ## Channels/Pages
-- [神](https://www.nicovideo.jp/user/421727/video)
+### Vids/Motions
 - [MOKA](https://www.youtube.com/channel/UCuITEWz9SRl-k2Ftjq_1Vaw)
 - [PizaCG](https://www.youtube.com/channel/UCpKgRpioJ1pMvIC9vqLzuGw)
+- [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437)
+
+### Models
 - [銀時愛P](https://seiga.nicovideo.jp/user/illust/22024414)
 - [那由他](https://w.atwiki.jp/nayutaworksltd/pages/1.html)
 - [極東ロデオ](http://hhp.x0.to/rodeo/3d/)
 - [kiribayasi](https://ch.nicovideo.jp/kiribayasi/blomaga/ar1027449)
-- [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437)
+- [2hu models](https://w.atwiki.jp/vpvpwiki/pages/223.html)
+- [deadsilvervirus](https://www.deviantart.com/o-deadsilvervirus-o/gallery/56065516/mmd-download)
+- [Stages](https://www.deviantart.com/mmd-stages)
+
+### MME
+- [神](https://www.nicovideo.jp/user/421727/video)
+- [ましまし](https://www.nicovideo.jp/user/14675117/video)
+
+
+## Random Links
+- [Project Diva rips](https://www.deviantart.com/flyingspirits-p/journal/Project-Diva-Motion-Convert-MMD-Downloads-798970572)
+- [BeammanP Wiki](https://w.atwiki.jp/beamman/)
+- [raymmd](https://learnmmd.com/http:/learnmmd.com/using-raycast-mmd-like-a-pro/)
+- [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
+- [RemiTda :(](https://3d.nicovideo.jp/works/td26230)
