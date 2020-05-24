@@ -28,6 +28,12 @@
 	- Isn't this the same thing as the continuity comment?
 - For faster/frequent cuts, either have the bg or the model moving, but don't move both. Moving both just feels motion sick. 
 	- Good example: https://youtu.be/bQs3I6cMQUI?t=163
+- I think the subtitles and credit lines in the HQ vids are just custom .x files containing the text since they're obviously 3d rendered in mmd... clever
+	- .x is a standard extension 
+	- For logos like for songs...
+		- SS logo, upscale, clean up in PS leaving a png with alpha.
+		- Import to blender, turn into 3d object and apply texture??
+- Use DoF shift in short cuts to give a zoom feel?
 
 ## Focal length shift usages
 - "Zoom in" feel without zooming in
@@ -37,7 +43,8 @@
 - Start out of focus and shift into focus with camera movement
 
 ## FX
-- idk htf they did it but pizacg changes the bokeh shape. Native ray-mmd?
+- If going for effect heavy, consider multiple renders and compositing in post (Eg, MOKA's Dramaturgy)
+	- Not actually sure if this is what they do or if there's a plugin, but the color borders makes me think it's composite.
 
 ## MME
 - ray-mmd
@@ -52,6 +59,10 @@
 - KiraKira_v1 (+KiraKira_Z)
 - Spectrum (Spectrometer fx)
 - LightBloom (Yeaaah this is what I was looking for)
+- ましまし Diffusions
+- lol conway GoL - penne sdCellularAutomata
+- Heh... Shinshiwaku fx...
+- HanaParticle/LooksReal fx
 
 ## Things to read up on
 - UE has some nice [rendering docs](https://docs.unrealengine.com/en-US/Engine/Rendering/index.html)
@@ -60,6 +71,7 @@
 
 ## Channels/Pages
 ### Vids/Motions
+- [MAO](https://ch.nicovideo.jp/mao415xxx/blomaga/ar732620?ref=pc_watch_description) (PV kits Umm???)
 - [MOKA](https://www.youtube.com/channel/UCuITEWz9SRl-k2Ftjq_1Vaw)
 - [PizaCG](https://www.youtube.com/channel/UCpKgRpioJ1pMvIC9vqLzuGw)
 - [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437)
@@ -72,11 +84,16 @@
 - [2hu models](https://w.atwiki.jp/vpvpwiki/pages/223.html)
 - [deadsilvervirus](https://www.deviantart.com/o-deadsilvervirus-o/gallery/56065516/mmd-download)
 - [Stages](https://www.deviantart.com/mmd-stages)
+- [山田淀子](https://www.nicovideo.jp/user/41277494)(MME too)
 
 ### MME
 - [神](https://www.nicovideo.jp/user/421727/video)
 - [ましまし](https://www.nicovideo.jp/user/14675117/video)
+- [pennennennennennenem](https://pennennennennennenem.github.io/MME/index.html)
+- [針金P](https://ch.nicovideo.jp/Harigane/blomaga/ar500418)
 
+### Tools
+- [Mogg](https://sites.google.com/site/moggproject/enghome)
 
 ## Random Links
 - [Project Diva rips](https://www.deviantart.com/flyingspirits-p/journal/Project-Diva-Motion-Convert-MMD-Downloads-798970572)
@@ -84,3 +101,9 @@
 - [raymmd](https://learnmmd.com/http:/learnmmd.com/using-raycast-mmd-like-a-pro/)
 - [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
 - [RemiTda :(](https://3d.nicovideo.jp/works/td26230)
+
+## Powershell wryy
+- `Get-ChildItem -Path *.zip -File | ForEach {expand-archive -path $_.fullname -destinationpath 'unzipped/'}`
+
+## Tool ideas
+- PMX auto bone translator via CLI.
