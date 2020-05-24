@@ -1,4 +1,6 @@
-Ideas/Notes:
+# 君色に染まる (Kimiiro ni Somaru)
+
+### Ideas/Notes:
 - Generally watch for when bg and fg are both moving quickly. Hard on the eyes and difficult to focus. (Eg, bg and face are both moving in shot a lot such that both are getting blurred.)
 - Generally watch out for cam movements with too high a velocity. Hard on the eyes.
 - Generally if head is moving in one direction, don't move camera along same axis...? Or maybe do... test.
@@ -11,7 +13,7 @@ Ideas/Notes:
 - Too much movement in the camera overall. Use more "small movement over long time" type moves.
 - use kirakira_z or HanaParticle sect3
 
-Issues:
+### Issues:
 - I should finish the camera movements.
 - 0:51, wtf is up with that DoF spasm
 - 1:46, reposition those jump cuts.
@@ -20,7 +22,7 @@ Issues:
 - 1:47, head is cut off frame
 - 2:15, cut down to three shots and make third one twice the length of other two (curr 4)
 
-History:
+### History:
 - 2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
 - 2020/05/16 - Added camera movements for 0:55-1:11. Adjusted exposure for lighting. More interpolation changes.
 - 2020/05/18 - How 2 mmd-ray. Added DoF. Lots of mmd-ray adjustments.

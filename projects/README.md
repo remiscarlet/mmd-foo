@@ -1,4 +1,6 @@
-## General notes
+# Notes
+
+## General thoughts
 - Use focal length variation more
 - Default should be with interpolation. Use linear sparingly.
     - Accelerate (x^2) for zoom in/out feel
