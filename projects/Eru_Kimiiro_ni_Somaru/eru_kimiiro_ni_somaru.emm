@@ -13,11 +13,7 @@ Pmd8 = G:\Google Drive\MMD\Models\Stages\SKYDOMES\スカイドーム_朝の空AA5_配布物\
 Pmd9 = G:\Google Drive\MMD\Models\Stages-Yuduki\リボンステージ2012\リボンステージ2012\リボンステージ2012\リボンステージ2012.pmx
 Pmd10 = G:\Google Drive\MMD\Models\Stages\SKYDOMES\スカイドーム_朝の空AA5_配布物\Skydome_AA5\Dome_AA503.pmx
 Pmd11 = G:\Google Drive\MMD\Models\Stages\ガーデンステージ\赤バラ\ガーデン赤.pmx
-Pmd13 = G:\Google Drive\MMD\Models\Characters\MMDエルモデル(1011)\エル2.pmx
-Acs14 = G:\Google Drive\MMD\MME\MMSHADERS\LightBloom-1.1.1\LightBloom.x
-Acs15 = G:\Google Drive\MMD\Models\Stages\Park Stage HD\stage.x
-Acs16 = G:\Google Drive\MMD\Models\Stages\Old Town Square by Dandis_Shiruhane\Old Town Square by Dandis_Shiruhane.x
-Acs17 = G:\Google Drive\MMD\MME\空中に漂う埃\空中に漂う埃.x
+Acs13 = G:\Google Drive\MMD\MME\空中に漂う埃\空中に漂う埃.x
 
 [Effect]
 Default = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
@@ -31,10 +27,7 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
-Acs15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
-Acs16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
-Acs17 = G:\Google Drive\MMD\MME\空中に漂う埃\空中に漂う埃.fx
+Acs13 = G:\Google Drive\MMD\MME\空中に漂う埃\空中に漂う埃.fx
 
 [Effect@EnvLightMap]
 Owner = Acs1
@@ -59,15 +52,8 @@ Pmd10 = none
 Pmd10.show = false
 Pmd11 = none
 Pmd11.show = false
-Pmd13 = none
-Pmd13.show = false
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@FogMap]
 Owner = Acs1
@@ -92,15 +78,8 @@ Pmd10 = none
 Pmd10.show = false
 Pmd11 = none
 Pmd11.show = false
-Pmd13 = none
-Pmd13.show = false
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@LightMap]
 Owner = Acs1
@@ -125,15 +104,8 @@ Pmd10 = none
 Pmd10.show = false
 Pmd11 = none
 Pmd11.show = false
-Pmd13 = none
-Pmd13.show = false
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@MaterialMap]
 Owner = Acs1
@@ -160,14 +132,8 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
-Acs14.show = false
-Acs15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
-Acs15.show = true
-Acs16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
-Acs16.show = true
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@OutlineMap]
 Owner = Acs1
@@ -185,14 +151,8 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@PSSM1]
 Owner = Acs1
@@ -209,14 +169,8 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@PSSM2]
 Owner = Acs1
@@ -233,14 +187,8 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@PSSM3]
 Owner = Acs1
@@ -257,14 +205,8 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@PSSM4]
 Owner = Acs1
@@ -281,14 +223,8 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
-Acs14.show = false
-Acs15 = none
-Acs15.show = false
-Acs16 = none
-Acs16.show = false
-Acs17 = none
-Acs17.show = false
+Acs13 = none
+Acs13.show = false
 
 [Effect@SSAOMap]
 Owner = Acs1
@@ -305,9 +241,5 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
-Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
-Acs14.show = false
-Acs15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
-Acs16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
-Acs17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Acs13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 

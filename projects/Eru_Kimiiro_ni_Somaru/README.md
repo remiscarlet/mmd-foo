@@ -6,21 +6,19 @@
 - Generally if head is moving in one direction, don't move camera along same axis...? Or maybe do... test.
 - 0:51, start camera with fast velocity to match previous scene "lift off" and decelerate to current vel.
 	- Nah. Wrong direction. Maybe with a cut matching same angle.
-- KiraKira_z with hearts?
-- I should uh. Zoom out more.
-	- Definitely zoom out more.bv 
 - Less jerky motions. Lessen the acceleration on zoom-ins.
-- Too much movement in the camera overall. Use more "small movement over long time" type moves.
 - use kirakira_z or HanaParticle sect3
+- Use clothes change in transitions? The cardigan-less look on Eru is yeee
+	- Oops I need to edit the models for that. (Eru needs bare arms filled in under cardigan)
+- Add MME FX?
 
 ### Issues:
-- I should finish the camera movements.
-- 0:51, wtf is up with that DoF spasm
-- 1:46, reposition those jump cuts.
-- 2:08, that weird dot line artifact thing again...
-- 1:28, clipping under the floor
-- 1:47, head is cut off frame
-- 2:15, cut down to three shots and make third one twice the length of other two (curr 4)
+- I should refine the camera movements.
+	- Use more varied interpolations. Distinguish angle movement from position movement. 
+- 2:03, work on smoothing that head movement a bit more
+- Middle section in general feels a bit restless. Use more no motion or minimal motion shots.
+- First section has a lot of excessively fast zooms
+- 1:17, the sudden movement downwards is kinda weird
 
 ### History:
 - 2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
@@ -29,3 +27,5 @@
 - 2020/05/20 - New stage. Minor vmd adjustments. Lighting adjustments. Accidentally removed all interpolation...
 - 2020/05/21 - Add second stage. Add cam movements 1:11-1:51. Unlimited Lighting Works. Add particle fx. Readd accidentally removed interpolation.
 - 2020/05/22 - 1:51-2:15 cam movement. Add third stage. Doing _something_ from 2:15-2:22... Fixed a bunch of weird bone positions on Eru. Lots of small tweaks.
+- 2020/05/24 - That 2:15 thing was never gonna work rip. Fixed weird clothes physics bug. More camera interpolation. Clean up. Many (failed) attempts at MME FX.
+- 2020/05/25 - Finish up first iteration of camera motions. Last 30 seconds needs a lot more refining. The lighting never ends.

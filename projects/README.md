@@ -76,7 +76,8 @@
 - [MAO](https://ch.nicovideo.jp/mao415xxx/blomaga/ar732620?ref=pc_watch_description) (PV kits Umm???)
 - [MOKA](https://www.youtube.com/channel/UCuITEWz9SRl-k2Ftjq_1Vaw)
 - [PizaCG](https://www.youtube.com/channel/UCpKgRpioJ1pMvIC9vqLzuGw)
-- [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437)
+- [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437) 
+- [yurie](https://www.nicovideo.jp/user/5728901/video)
 
 ### Models
 - [銀時愛P](https://seiga.nicovideo.jp/user/illust/22024414)
@@ -97,12 +98,16 @@
 ### Tools
 - [Mogg](https://sites.google.com/site/moggproject/enghome)
 
+### Repos/GH
+- [VMD-Lifting](https://github.com/errno-mmd/VMD-Lifting) Yoooooooooo this is cool.
+
 ## Random Links
 - [Project Diva rips](https://www.deviantart.com/flyingspirits-p/journal/Project-Diva-Motion-Convert-MMD-Downloads-798970572)
 - [BeammanP Wiki](https://w.atwiki.jp/beamman/)
 - [raymmd](https://learnmmd.com/http:/learnmmd.com/using-raycast-mmd-like-a-pro/)
 - [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
 - [RemiTda :(](https://3d.nicovideo.jp/works/td26230)
+- [DirectX .x File Format Specification](http://www.cgdev.net/axe/x-file.html)
 
 ## Powershell wryy
 - `Get-ChildItem -Path *.zip -File | ForEach {expand-archive -path $_.fullname -destinationpath 'unzipped/'}`
