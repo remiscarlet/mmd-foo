@@ -19,8 +19,11 @@
 - 2:03, work on smoothing that head movement a bit more
 - Middle section in general feels a bit restless. Use more no motion or minimal motion shots.
 - First section has a lot of excessively fast zooms
-- 0:26 the zoom in is too fast. Space out a little more or do a jump cut?
-- 0:47, match the camera turn with the choreo. Camera moves a bit longer than choreo currently.
+
+### Subtitle notes:
+- Some kind of interesting kfx for rhythmically interesting parts?
+	- Eg `ああ、好きだよ、好きだよ、好きだよって伝えたい`
+
 
 ### History:
 - 2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
@@ -32,3 +35,4 @@
 - 2020/05/24 - That 2:15 thing was never gonna work rip. Fixed weird clothes physics bug. More camera interpolation. Clean up. Many (failed) attempts at MME FX.
 - 2020/05/25 - Finish up first iteration of camera motions. Last 30 seconds needs a lot more refining. The lighting never ends.
 - 2020/05/26 - Smooth out a ton of motions. General cleanup and fine adjustments.
+- 2020/05/27 - Fixed some issues. Made third section a bit less restless. Got a basic workflow for adding kfx layer.

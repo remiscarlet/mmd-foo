@@ -48,6 +48,23 @@
 - If going for effect heavy, consider multiple renders and compositing in post (Eg, MOKA's Dramaturgy)
 	- Not actually sure if this is what they do or if there's a plugin, but the color borders makes me think it's composite.
 
+## KFX/Subtitle Notes
+- Workflow:
+	- Aegisub
+	- Hardcode to video with separate alpha matte
+		- VirtualDub (Oooo blast from the past)
+		- Blank video render:
+			- `ffmpeg -t 193 -f lavfi -i color=c=black:s=854x480 -c:v libx264 -tune stillimage -pix_fmt yuv420p blank.mpeg`
+			- `ffmpeg -loop 1 -i "G:\Google Drive\MMD\Projects\projects\stills\854x480.black.png" -t 193 -r 30 -c:v libx264 blank.mp4`
+		- How to alpha matte? Hack with setting `.ass` styles to black?
+	- Composite in premiere
+
+## Random Notes
+- 16:9 ratio
+	- 2560 x 1440
+	- 854 x 480
+
+
 ## MME
 - ray-mmd
 	- [Shaders](https://github.com/MikuMikuShaders)
@@ -114,3 +131,7 @@
 
 ## Tool ideas
 - PMX auto bone translator via CLI.
+- Auto `.ass` updater which takes translation files and updates text.
+	- Eg, `Eru_Kimiiro_ni_Somaru/subtitles/lyrics.eng.md` => `Eru_Kimiiro_ni_Somaru/subtitles/kimiiro_ni_somaru_kfx.ass`
+	- If keeping as `.md`, how to delimit changelog from TL?
+	- Can prob analogously make the jp text updater too.
