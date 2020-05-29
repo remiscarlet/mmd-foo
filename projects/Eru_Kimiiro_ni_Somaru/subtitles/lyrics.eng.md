@@ -1,6 +1,7 @@
 # 君色に染まる (Kimiiro ni Somaru)
 
 ## TL
+```
 I got my hopes up, just to talk myself down
 You're stringing me along with vague answers
 It's almost like I'm being left behind
@@ -37,7 +38,7 @@ I can't say I've never had those thoughts
 I'm sorry I've always gotten in your way
 But I just wanted to say I love you
 But I just wanted to say I love you
-
+```
 
 ## Changelog
 - 2020/05/28, First iteration pass is mostly literal translating. Minimal sentence reordering.

@@ -1,0 +1,260 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray.x
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of day.pmx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Sky Hemisphere\Sky with box.pmx
+Pmd4 = G:\Google Drive\MMD\Models\Characters\MMDエルモデル(1011)\エル2.pmx
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray_controller.pmx
+Pmd6 = G:\Google Drive\MMD\MME\MMSHADERS\LightBloom-1.1.1\LightBloomController.pmx
+Pmd7 = G:\Google Drive\MMD\Models\Stages\星の広場\星の広場.pmx
+Pmd8 = G:\Google Drive\MMD\Models\Stages\SKYDOMES\スカイドーム_朝の空AA5_配布物\Skydome_AA5\Dome_AA506.pmx
+Pmd9 = G:\Google Drive\MMD\Models\Stages-Yuduki\リボンステージ2012\リボンステージ2012\リボンステージ2012\リボンステージ2012.pmx
+Pmd10 = G:\Google Drive\MMD\Models\Stages\SKYDOMES\スカイドーム_朝の空AA5_配布物\Skydome_AA5\Dome_AA503.pmx
+Pmd11 = G:\Google Drive\MMD\Models\Stages\ガーデンステージ\赤バラ\ガーデン赤.pmx
+Pmd13 = G:\Google Drive\MMD\Models\Characters\MMDエルモデル(1011)\エル2.pmx
+Acs14 = G:\Google Drive\MMD\MME\空中に漂う埃\空中に漂う埃.x
+
+[Effect]
+Default = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of day.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Sky Hemisphere\Sky with box.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Acs14 = G:\Google Drive\MMD\MME\空中に漂う埃\空中に漂う埃.fx
+
+[Effect@EnvLightMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of lighting.fx
+Pmd2.show = true
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\skylighting_none.fx
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Pmd9 = none
+Pmd9.show = false
+Pmd10 = none
+Pmd10.show = false
+Pmd11 = none
+Pmd11.show = false
+Pmd13 = none
+Pmd13.show = false
+Acs14 = none
+Acs14.show = false
+
+[Effect@FogMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of fog.fx
+Pmd2.show = true
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Pmd9 = none
+Pmd9.show = false
+Pmd10 = none
+Pmd10.show = false
+Pmd11 = none
+Pmd11.show = false
+Pmd13 = none
+Pmd13.show = false
+Acs14 = none
+Acs14.show = false
+
+[Effect@LightMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = none
+Pmd2.show = false
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Pmd9 = none
+Pmd9.show = false
+Pmd10 = none
+Pmd10.show = false
+Pmd11 = none
+Pmd11.show = false
+Pmd13 = none
+Pmd13.show = false
+Acs14 = none
+Acs14.show = false
+
+[Effect@MaterialMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_skybox.fx
+Pmd2.show = true
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x1\material_albedo_x1.fx
+Pmd3.show = true
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd4.show = true
+Pmd4[4] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Pmd4[5] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Subsurface\material_marble.fx
+Pmd4[7] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Pmd4[17] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\raisedCloth\material_raisedCloth.fx
+Pmd4[26] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\raisedCloth\material_raisedCloth.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd7[0] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Subsurface\material_marble.fx
+Pmd7[2] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x1\material_albedo_x1.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Acs14 = none
+Acs14.show = false
+
+[Effect@OutlineMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Acs14 = none
+Acs14.show = false
+
+[Effect@PSSM1]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Acs14 = none
+Acs14.show = false
+
+[Effect@PSSM2]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Acs14 = none
+Acs14.show = false
+
+[Effect@PSSM3]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Acs14 = none
+Acs14.show = false
+
+[Effect@PSSM4]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Acs14 = none
+Acs14.show = false
+
+[Effect@SSAOMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd5 = none
+Pmd5.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Acs14 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+

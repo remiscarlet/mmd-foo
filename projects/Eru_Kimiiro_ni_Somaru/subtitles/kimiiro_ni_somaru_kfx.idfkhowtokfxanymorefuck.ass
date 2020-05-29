@@ -6,66 +6,67 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 2560
-PlayResY: 1440
+PlayResX: 854
+PlayResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test14.1440p.avi
-Video File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test14.1440p.avi
+Audio File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test14.480p.avi
+Video File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test14.480p.avi
 Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 85
-Video Position: 2205
+Video AR Value: 1.779167
+Video Zoom Percent: 1.250000
+Scroll Position: 42
+Active Line: 48
+Video Position: 4810
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: jp_kimiiro-ni-somaru - Credits - Larger-furigana,あんずもじ2020,35,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,2.25,3.15,1,30,30,9,1
-Style: eng_kimiiro-ni-somaru - Credits-furigana,Play Day - Personal Use,75,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.899297,0,1,2.25,2.4,3,36,30,9,1
-Style: jp_kimiiro-ni-somaru - Credits-furigana,あんずもじ2020,30,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,2.25,3.15,1,30,30,9,1
-Style: eng_kimiiro-ni-somaru - Title - Sub-furigana,Play Day - Personal Use,52.5,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,90,0.899297,0,1,1.8,1.5,3,36,30,9,1
-Style: eng_kimiiro-ni-somaru - Title-furigana,Play Day - Personal Use,75,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.899297,0,1,1.8,1.5,3,36,30,9,1
-Style: jp_kimiiro-ni-somaru - Title-furigana,あんずもじ2020,55.5,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,2.25,3.15,3,30,30,9,1
-Style: eng_kimiiro-ni-somaru-furigana,Play Day - Personal Use,48,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.899297,0,1,2.1,2.1,7,36,30,9,1
-Style: jp_kimiiro-ni-somaru - Jumper-furigana,UD デジタル 教科書体 NK-B,37.5,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,2.25,3,3,30,30,9,1
-Style: jp_kimiiro-ni-somaru-furigana,あんずもじ2020,37.5,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,2.25,3,3,30,30,9,1
-Style: Default-furigana,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,30,30,30,1
-Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,6,2,30,30,30,1
-Style: jp_kimiiro-ni-somaru,あんずもじ2020,75,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,4,4,3,30,30,14,1
-Style: jp_kimiiro-ni-somaru - Jumper,UD デジタル 教科書体 NK-B,75,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,4.5,6,3,30,30,9,1
-Style: eng_kimiiro-ni-somaru,Play Day - Personal Use,96,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.899297,0,1,4.2,4.2,7,36,30,9,1
-Style: jp_kimiiro-ni-somaru - Title,あんずもじ2020,111,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,4.5,4.7,3,30,30,9,1
-Style: eng_kimiiro-ni-somaru - Title,Play Day - Personal Use,150,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.899297,0,1,3.6,3,3,36,30,9,1
-Style: eng_kimiiro-ni-somaru - Title - Sub,Play Day - Personal Use,105,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,90,0.899297,0,1,3.6,3,3,36,30,9,1
-Style: jp_kimiiro-ni-somaru - Credits,あんずもじ2020,60,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,4.5,4.5,1,30,30,9,1
-Style: eng_kimiiro-ni-somaru - Credits,Play Day - Personal Use,150,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.899297,0,1,4.5,4.8,3,36,30,9,1
-Style: jp_kimiiro-ni-somaru - Credits - Larger,あんずもじ2020,70,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,4.3,4.7,1,30,30,9,1
+Style: jp_kimiiro-ni-somaru - Jumper-furigana,UD デジタル 教科書体 NK-B,12.5,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,1,3,10,10,3,1
+Style: eng_kimiiro-ni-somaru - Credits-furigana,Play Day - Personal Use,25,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.3,0,1,0.75,0.8,3,12,10,3,1
+Style: jp_kimiiro-ni-somaru - Credits-furigana,UD デジタル 教科書体 NK-B,10,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,1.05,1,10,10,3,1
+Style: eng_kimiiro-ni-somaru - Title - Sub-furigana,Play Day - Personal Use,17.5,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,90,0.3,0,1,0.75,0.75,3,12,10,3,1
+Style: eng_kimiiro-ni-somaru - Title-furigana,Play Day - Personal Use,25,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.3,0,1,0.75,0.8,3,12,10,3,1
+Style: jp_kimiiro-ni-somaru - Title-furigana,UD デジタル 教科書体 NK-B,21.5,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,1.05,3,10,10,3,1
+Style: eng_kimiiro-ni-somaru-furigana,Play Day - Personal Use,16,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,0.8,7,12,10,3,1
+Style: jp_kimiiro-ni-somaru-furigana,UD デジタル 教科書体 NK-B,13,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,1.05,3,10,10,3,1
+Style: eng-furigana,UD デジタル 教科書体 NK-B,13,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,1.05,7,10,10,3,1
+Style: jp-furigana,UD デジタル 教科書体 NK-B,15,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,0.75,1.05,3,10,10,10,1
+Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: jp_kimiiro-ni-somaru,UD デジタル 教科書体 NK-B,25,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,1.5,2,3,10,10,3,1
+Style: jp_kimiiro-ni-somaru - Jumper,UD デジタル 教科書体 NK-B,25,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,1.5,2,3,10,10,3,1
+Style: eng_kimiiro-ni-somaru,Play Day - Personal Use,32,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.3,0,1,1.4,1.4,7,12,10,3,1
+Style: jp_kimiiro-ni-somaru - Title,UD デジタル 教科書体 NK-B,37,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,1.5,2.1,3,10,10,3,1
+Style: eng_kimiiro-ni-somaru - Title,Play Day - Personal Use,50,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.3,0,1,1.5,1.6,3,12,10,3,1
+Style: eng_kimiiro-ni-somaru - Title - Sub,Play Day - Personal Use,35,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,90,0.3,0,1,1.5,1.5,3,12,10,3,1
+Style: jp_kimiiro-ni-somaru - Credits,UD デジタル 教科書体 NK-B,20,&H00C1C1FF,&H000000FF,&H4D5C5DBB,&H52CDCDFF,0,0,0,0,100,100,0,0,1,1.5,2.1,1,10,10,3,1
+Style: eng_kimiiro-ni-somaru - Credits,Play Day - Personal Use,50,&H00C1C1FF,&H000000FF,&H4D5C5CBF,&H52CDCDFF,0,0,0,0,100,100,0.3,0,1,1.5,1.6,3,12,10,3,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru,jp,0,0,0,template line jp,{\r\blur2\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
-Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru - Title,jp,0,0,0,template line jptitle keeptags,{\r\blur2\t($start,$end,\bord5\be1\fad(500,750))\t($mid,$end,\bord2\be1)}
-Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru - Credits,jp,0,0,0,template line jpcredits keeptags,{\r\blur2\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
-Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,template line jpcreditslarge keeptags,{\r\blur2\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
+Comment: 0,0:00:00.00,0:00:00.00,jp_kimiiro-ni-somaru - Jumper,,0,0,0,code line,jump_offset_x = 728.049 jump_offset_y =477.853
+Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,template syl keeptags,{\r\blur2\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
+Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru - Title,jp,0,0,0,template line jptitle keeptags,{\r\blur2\t($start,$end,\bord5\be1\fad(300,300))\t($mid,$end,\bord2\be1)}
+Comment: 0,0:00:00.00,0:00:00.04,jp_kimiiro-ni-somaru - Credits,jp,0,0,0,template line jpcredits keeptags,{\r\blur2\t($start,$end,\bord5\be1\fad(300,300))\t($mid,$end,\bord2\be1)}
 Comment: 0,0:00:00.00,0:00:00.04,eng_kimiiro-ni-somaru,eng,0,0,0,template line eng,{\r\blur1.6\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
-Comment: 0,0:00:00.00,0:00:00.04,eng_kimiiro-ni-somaru - Title,eng,0,0,0,template line engtitle keeptags,{\r\blur1.6\t($start,$end,\bord5\be1\fad(500,750))\t($mid,$end,\bord2\be1)}
-Comment: 0,0:00:00.00,0:00:00.04,eng_kimiiro-ni-somaru - Title - Sub,eng,0,0,0,template line engtitlesub keeptags,{\r\blur1.6\t($start,$end,\bord5\be1\fad(500,750))\t($mid,$end,\bord2\be1)}
+Comment: 0,0:00:00.00,0:00:00.04,eng_kimiiro-ni-somaru - Title,eng,0,0,0,template line engtitle keeptags,{\r\blur1.6\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
+Comment: 0,0:00:00.00,0:00:00.04,eng_kimiiro-ni-somaru - Title - Sub,eng,0,0,0,template line engtitlesub keeptags,{\r\blur1.6\t($start,$end,\bord5\be1\fad(300,400))\t($mid,$end,\bord2\be1)}
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:01.37,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(2176.279,1318.683)}エルさんが
-Comment: 0,0:00:03.88,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(2532.967,1420.998)}君色に染まっちゃう
-Comment: 0,0:00:01.37,0:00:10.30,eng_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(693.505,145.527)}Kimi iro ni Somaru
-Comment: 0,0:00:03.88,0:00:10.30,eng_kimiiro-ni-somaru - Title - Sub,,0,0,0,karaoke,{\pos(715.859,209.475)}"Dyed With Your Color"
+Comment: 0,0:00:01.37,0:00:06.39,jp_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(725.993,439.561)}エルさんが
+Comment: 0,0:00:03.88,0:00:06.39,jp_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(844.982,473.666)}君色に染まっちゃう
+Comment: 0,0:00:01.37,0:00:06.39,eng_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(231.349,48.509)}Kimi iro ni Somaru
+Comment: 0,0:00:03.88,0:00:06.39,eng_kimiiro-ni-somaru - Title - Sub,,0,0,0,karaoke,{\pos(238.806,69.825)}"Dyed With Your Color"
 Dialogue: 0,0:00:00.00,0:00:00.09,Default,,0,0,0,,
-Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,,0,0,0,karaoke,{\pos(53.985,1395)}「Music」
-Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,karaoke,{\pos(327.872,1397)}DECO*27
-Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Motion」\N「Choreo」
-Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(313.742,1395)}つん\N足太ぺんた
-Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「MME」\N「Models」\N\N\N\N\N
-Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(312.837,1393)}rui、化身バレッタ\N落書きさん、公開\N怪獣対若大将P\Nゆづき、@Ai
-Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Fonts」\N「Camera\N\h& Video」\N
-Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(341.552,1395)}あんずもじ、Play Day\N\N\Nremidapyon
+Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(18.009,465)}「Music」
+Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits,jp,0,0,0,karaoke,{\pos(102.037,465)}DECO*27
+Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(18.009,465)}「Motion」\N「Choreo」
+Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(110..037,465)}つん\N足太ぺんた
+Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(18.009,465)}「MME」\N「Models」\N\N\N\N\N
+Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(117.037,465)}rui、化身バレッタ\N落書きさん、公開\N怪獣対若大将P\Nゆづき、@Ai
+Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(18.009,465)}「Camera\N\h& Video」\N
+Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(111.938,465)}remidapyon
 Dialogue: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,
 Comment: 0,0:00:31.02,0:00:35.74,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,期待してすぐに諦めて
 Comment: 0,0:00:35.74,0:00:41.01,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,曖昧な答えに流されては
@@ -94,8 +95,11 @@ Comment: 0,0:02:31.70,0:02:35.44,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,この時
 Comment: 0,0:02:35.44,0:02:40.33,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,もしかして、君と釣り合ってないかな？
 Comment: 0,0:02:40.33,0:02:45.08,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,そんな不安もたまに過るけれど
 Comment: 0,0:02:45.08,0:02:50.28,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,いつも困らせてばかりでごめんね
-Comment: 0,0:02:50.28,0:02:54.96,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,ああ、好きだよって伝えたい
-Comment: 0,0:02:54.96,0:03:00.04,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,ああ、好きだよって伝えたい
+Comment: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,karaoke,{\k36\pos(728,478)}{\k14\pos(728,478)}好{\k30\pos(728,478)}き{\k17\pos(728,478)}だ{\k32\pos(728,478)}よ{\k339}
+Comment: 0,0:02:51.58,0:02:52.49,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,karaoke,{\pos(728,478)}{\k14}好{\k31}き{\k16}だ{\k30}よ
+Comment: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,karaoke,{\pos(728,478)}{\k13}好{\k32}き{\k16}だ{\k48}よ{\k138}
+Comment: 0,0:02:50.28,0:02:54.96,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,ああ、\h\h\h\h\h\h\h\hよって伝えたい
+Comment: 0,0:02:54.96,0:03:00.04,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,ああ、好きだよ、好きだよ、好きだよって伝えたい
 Dialogue: 0,0:03:00.04,0:03:02.04,Default,,0,0,0,,
 Comment: 0,0:00:31.02,0:00:35.74,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I got my hopes up, just to talk myself down
 Comment: 0,0:00:35.74,0:00:41.01,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,You're stringing me along with vague answers
@@ -126,18 +130,18 @@ Comment: 0,0:02:40.33,0:02:45.08,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I can't
 Comment: 0,0:02:45.08,0:02:50.28,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I'm sorry I've always gotten in your way
 Comment: 0,0:02:50.28,0:02:54.96,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,But I just wanted to say I love you
 Comment: 0,0:02:54.96,0:03:00.04,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,But I just wanted to say I love you
-Dialogue: 0,0:00:01.37,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(2176.279,1318.683)}エルさんが
-Dialogue: 0,0:00:03.88,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(2532.967,1420.998)}君色に染まっちゃう
-Dialogue: 0,0:00:01.37,0:00:10.30,eng_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(693.505,145.527)}Kimi iro ni Somaru
-Dialogue: 0,0:00:03.88,0:00:10.30,eng_kimiiro-ni-somaru - Title - Sub,,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(715.859,209.475)}"Dyed With Your Color"
-Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Music」
-Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(327.872,1397)}DECO*27
-Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Motion」\N「Choreo」
-Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(313.742,1395)}つん\N足太ぺんた
-Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「MME」\N「Models」\N\N\N\N\N
-Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(312.837,1393)}rui、化身バレッタ\N落書きさん、公開\N怪獣対若大将P\Nゆづき、@Ai
-Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Fonts」\N「Camera\N\h& Video」\N
-Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(341.552,1395)}あんずもじ、Play Day\N\N\Nremidapyon
+Dialogue: 0,0:00:01.37,0:00:06.39,jp_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(725.993,439.561)}エルさんが
+Dialogue: 0,0:00:03.88,0:00:06.39,jp_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(844.982,473.666)}君色に染まっちゃう
+Dialogue: 0,0:00:01.37,0:00:06.39,eng_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(231.349,48.509)}Kimi iro ni Somaru
+Dialogue: 0,0:00:03.88,0:00:06.39,eng_kimiiro-ni-somaru - Title - Sub,,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(238.806,69.825)}"Dyed With Your Color"
+Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(18.009,465)}「Music」
+Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(102.037,465)}DECO*27
+Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(18.009,465)}「Motion」\N「Choreo」
+Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(110..037,465)}つん\N足太ぺんた
+Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(18.009,465)}「MME」\N「Models」\N\N\N\N\N
+Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(117.037,465)}rui、化身バレッタ\N落書きさん、公開\N怪獣対若大将P\Nゆづき、@Ai
+Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(18.009,465)}「Camera\N\h& Video」\N
+Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,300))\t(0,0,\bord2\be1)}{\pos(111.938,465)}remidapyon
 Dialogue: 0,0:00:31.02,0:00:35.74,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}期待してすぐに諦めて
 Dialogue: 0,0:00:35.74,0:00:41.01,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}曖昧な答えに流されては
 Dialogue: 0,0:00:41.01,0:00:45.64,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}自分だけ置いて行かれるような
@@ -165,8 +169,26 @@ Dialogue: 0,0:02:31.70,0:02:35.44,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0
 Dialogue: 0,0:02:35.44,0:02:40.33,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}もしかして、君と釣り合ってないかな？
 Dialogue: 0,0:02:40.33,0:02:45.08,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}そんな不安もたまに過るけれど
 Dialogue: 0,0:02:45.08,0:02:50.28,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}いつも困らせてばかりでごめんね
-Dialogue: 0,0:02:50.28,0:02:54.96,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}ああ、好きだよって伝えたい
-Dialogue: 0,0:02:54.96,0:03:00.04,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}ああ、好きだよって伝えたい
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(0,360,\bord5\be1\fad(300,400))\t(180,360,\bord2\be1)}{\pos(728,478)}
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(360,500,\bord5\be1\fad(300,400))\t(430,500,\bord2\be1)}{\pos(728,478)}好
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(500,800,\bord5\be1\fad(300,400))\t(650,800,\bord2\be1)}{\pos(728,478)}き
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(800,970,\bord5\be1\fad(300,400))\t(885,970,\bord2\be1)}{\pos(728,478)}だ
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(970,1290,\bord5\be1\fad(300,400))\t(1130,1290,\bord2\be1)}{\pos(728,478)}よ
+Dialogue: 0,0:02:50.28,0:02:51.58,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(1290,4680,\bord5\be1\fad(300,400))\t(2985,4680,\bord2\be1)}
+Dialogue: 0,0:02:51.58,0:02:52.49,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}
+Dialogue: 0,0:02:51.58,0:02:52.49,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(0,140,\bord5\be1\fad(300,400))\t(70,140,\bord2\be1)}{\pos(728,478)}好
+Dialogue: 0,0:02:51.58,0:02:52.49,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(140,450,\bord5\be1\fad(300,400))\t(295,450,\bord2\be1)}き
+Dialogue: 0,0:02:51.58,0:02:52.49,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(450,610,\bord5\be1\fad(300,400))\t(530,610,\bord2\be1)}だ
+Dialogue: 0,0:02:51.58,0:02:52.49,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(610,910,\bord5\be1\fad(300,400))\t(760,910,\bord2\be1)}よ
+Dialogue: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}
+Dialogue: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(0,130,\bord5\be1\fad(300,400))\t(65,130,\bord2\be1)}{\pos(728,478)}好
+Dialogue: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(130,450,\bord5\be1\fad(300,400))\t(290,450,\bord2\be1)}き
+Dialogue: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(450,610,\bord5\be1\fad(300,400))\t(530,610,\bord2\be1)}だ
+Dialogue: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(610,1090,\bord5\be1\fad(300,400))\t(850,1090,\bord2\be1)}よ
+Dialogue: 0,0:02:52.49,0:02:54.96,jp_kimiiro-ni-somaru - Jumper,jp,0,0,0,fx,{\r\blur2\t(1090,2470,\bord5\be1\fad(300,400))\t(1780,2470,\bord2\be1)}
+Dialogue: 0,0:02:50.28,0:02:54.96,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}ああ、\h\h\h\h\h\h\h\hよって伝えたい
+Dialogue: 0,0:02:54.96,0:03:00.04,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}ああ、好きだよ、好きだよ、好きだよって伝えたい
 Dialogue: 0,0:00:31.02,0:00:35.74,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}I got my hopes up, just to talk myself down
 Dialogue: 0,0:00:35.74,0:00:41.01,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}You're stringing me along with vague answers
 Dialogue: 0,0:00:41.01,0:00:45.64,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}It's almost like I'm being left behind

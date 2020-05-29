@@ -19,6 +19,7 @@
 - 2:03, work on smoothing that head movement a bit more
 - Middle section in general feels a bit restless. Use more no motion or minimal motion shots.
 - First section has a lot of excessively fast zooms
+- 0:08, I don't think legs bend like that.
 
 ### Subtitle notes:
 - Some kind of interesting kfx for rhythmically interesting parts?
@@ -36,3 +37,4 @@
 - 2020/05/25 - Finish up first iteration of camera motions. Last 30 seconds needs a lot more refining. The lighting never ends.
 - 2020/05/26 - Smooth out a ton of motions. General cleanup and fine adjustments.
 - 2020/05/27 - Fixed some issues. Made third section a bit less restless. Got a basic workflow for adding kfx layer.
+- 2020/05/28 - Lots of VirtualDub fuckery. Add subtitles/credits via kfx.
