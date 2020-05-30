@@ -53,11 +53,19 @@
 	- Aegisub
 	- Hardcode to video with separate alpha matte
 		- VirtualDub (Oooo blast from the past)
+			- Export to mov with h265
 		- Blank video render:
 			- `ffmpeg -t 193 -f lavfi -i color=c=black:s=854x480 -c:v libx264 -tune stillimage -pix_fmt yuv420p blank.mpeg`
 			- `ffmpeg -loop 1 -i "G:\Google Drive\MMD\Projects\projects\stills\854x480.black.png" -t 193 -r 30 -c:v libx264 blank.mp4`
 		- How to alpha matte? Hack with setting `.ass` styles to black?
 	- Composite in premiere
+
+## Render notes
+- h264
+- VBR 2 pass
+- Target bitrate of ~50mbps seems okay for Kimiiro.
+- Max bitrate set to 100mbps. Probably way overkill? But it is 1440p.
+
 
 ## Random Notes
 - 16:9 ratio
@@ -125,6 +133,7 @@
 - [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
 - [RemiTda :(](https://3d.nicovideo.jp/works/td26230)
 - [DirectX .x File Format Specification](http://www.cgdev.net/axe/x-file.html)
+- [ffmpeg docs](https://ffmpeg.org/ffmpeg-formats.html#aa)
 
 ## Powershell wryy
 - `Get-ChildItem -Path *.zip -File | ForEach {expand-archive -path $_.fullname -destinationpath 'unzipped/'}`

@@ -14,17 +14,20 @@
 - Need to watch whole thing through more rather than AB repeating small sections. Losing sight of overall feel by tunnel visioning.
 
 ### Issues:
-- I should refine the camera movements.
-	- Use more varied interpolations. Distinguish angle movement from position movement. 
 - 2:03, work on smoothing that head movement a bit more
 - Middle section in general feels a bit restless. Use more no motion or minimal motion shots.
 - First section has a lot of excessively fast zooms
 - 0:08, I don't think legs bend like that.
+- なんか微妙に赤い。,
 
 ### Subtitle notes:
 - Some kind of interesting kfx for rhythmically interesting parts?
 	- Eg `ああ、好きだよ、好きだよ、好きだよって伝えたい`
+	- Kind of a pain in the ass.
 
+### TODOS:
+- KFX the title subs with some syl fx. Shiny slide fadein?
+	- Dissolve away into white dust/glitter?
 
 ### History:
 - 2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
