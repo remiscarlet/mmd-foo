@@ -14,11 +14,8 @@
 - Need to watch whole thing through more rather than AB repeating small sections. Losing sight of overall feel by tunnel visioning.
 
 ### Issues:
-- 2:03, work on smoothing that head movement a bit more
 - Middle section in general feels a bit restless. Use more no motion or minimal motion shots.
 - First section has a lot of excessively fast zooms
-- 0:08, I don't think legs bend like that.
-- なんか微妙に赤い。,
 
 ### Subtitle notes:
 - Some kind of interesting kfx for rhythmically interesting parts?
@@ -28,6 +25,9 @@
 ### TODOS:
 - KFX the title subs with some syl fx. Shiny slide fadein?
 	- Dissolve away into white dust/glitter?
+	- Nah. PITA with aegi
+- 1:41, do I care about that one frame leg spasm?
+- Update subs with new translations
 
 ### History:
 - 2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
@@ -41,3 +41,4 @@
 - 2020/05/26 - Smooth out a ton of motions. General cleanup and fine adjustments.
 - 2020/05/27 - Fixed some issues. Made third section a bit less restless. Got a basic workflow for adding kfx layer.
 - 2020/05/28 - Lots of VirtualDub fuckery. Add subtitles/credits via kfx.
+- 2020/05/31 - Fix rest of weird motions. Add Wotamin credits. Aegisub is pain.

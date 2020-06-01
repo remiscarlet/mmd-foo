@@ -23,7 +23,7 @@ I know I keep getting in your way and I'm sorry, but
 All I ever wanted to say was, "I love you"
 
 Even if I search for the right words to not hurt you
-I still end up rushing in with half-complete thoughts
+I still end up rushing in, ending up back at square one
 Why does this feel all wrong, yet so right?
 I'll leave it to you to decide our fates.
 
@@ -42,3 +42,4 @@ All I ever wanted to say was, "I love you"
 ## Changelog
 - 2020/05/28, First iteration pass is mostly literal translating. Minimal sentence reordering.
 - 2020/05/29, reword to be a bit more natural. Should probably get someone who actually knows English to review.
+- 2020/05/31, Still don't like line 26...

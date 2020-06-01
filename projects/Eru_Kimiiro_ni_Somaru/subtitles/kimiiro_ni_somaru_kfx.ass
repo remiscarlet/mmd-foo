@@ -11,14 +11,13 @@ PlayResY: 1440
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test15.1440p.avi
-Video File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test15.1440p.avi
+Audio File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test16.1440p.avi
+Video File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test16.1440p.avi
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 121
-Active Line: 149
-Video Position: 10570
+Video Zoom Percent: 0.500000
+Scroll Position: 75
+Active Line: 83
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,11 +57,11 @@ Comment: 0,0:00:03.88,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\p
 Comment: 0,0:00:01.37,0:00:10.30,eng_kimiiro-ni-somaru - Title,,0,0,0,karaoke,{\pos(693.505,145.527)}Kimi iro ni Somaru
 Comment: 0,0:00:03.88,0:00:10.30,eng_kimiiro-ni-somaru - Title - Sub,,0,0,0,karaoke,{\pos(715.859,209.475)}"Dyed With Your Color"
 Dialogue: 0,0:00:00.00,0:00:00.09,Default,,0,0,0,,
-Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,,0,0,0,karaoke,{\pos(53.985,1395)}「Music」
-Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,karaoke,{\pos(327.872,1397)}DECO*27
-Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Motion」\N「Choreo」\N「Poses」
-Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(313.742,1395)}つん\N足太ぺんた\Nｓｉｖａ、ｃｚ００７５
-Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「MME」\N\N\N\N「Stage\N& Models」\N\N\N
+Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,,0,0,0,karaoke,{\pos(53.985,1395)}「Music」\N「Vocals」
+Comment: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,karaoke,{\pos(327.872,1397)}DECO*27\Nヲタみん
+Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Model」\N「Choreo」\N「Motion」\N「Pose」
+Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(313.742,1395)}エルさん\N足太ぺんた\Nつん\Nｓｉｖａ、ｃｚ００７５
+Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「MME」\N\N\N\N「Stage」\N\N\N\N\N
 Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(312.837,1393)}ｒｕｉ、化身バレッタ、\Nそぼろ、ましまし\N\N落書きさん、公開、\N怪獣対若大将P、\Nゆづき、＠Ａｉ
 Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Fonts」\N「Camera\N\h& Video」\N
 Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(341.552,1395)}あんずもじ、ＰｌａｙＤａｙ\N\N\Nｒｅｍｉｄａｐｙｏｎ
@@ -130,11 +129,11 @@ Dialogue: 0,0:00:01.37,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blu
 Dialogue: 0,0:00:03.88,0:00:10.30,jp_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(2532.967,1420.998)}君色に染まっちゃう
 Dialogue: 0,0:00:01.37,0:00:10.30,eng_kimiiro-ni-somaru - Title,,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(693.505,145.527)}Kimi iro ni Somaru
 Dialogue: 0,0:00:03.88,0:00:10.30,eng_kimiiro-ni-somaru - Title - Sub,,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(500,750))\t(0,0,\bord2\be1)}{\pos(715.859,209.475)}"Dyed With Your Color"
-Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Music」
-Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(327.872,1397)}DECO*27
-Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Motion」\N「Choreo」\N「Poses」
-Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(313.742,1395)}つん\N足太ぺんた\Nｓｉｖａ、ｃｚ００７５
-Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「MME」\N\N\N\N「Stage\N& Models」\N\N\N
+Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Music」\N「Vocals」
+Dialogue: 0,0:00:11.42,0:00:16.59,jp_kimiiro-ni-somaru - Credits - Larger,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(327.872,1397)}DECO*27\Nヲタみん
+Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Model」\N「Choreo」\N「Motion」\N「Pose」
+Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(313.742,1395)}エルさん\N足太ぺんた\Nつん\Nｓｉｖａ、ｃｚ００７５
+Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「MME」\N\N\N\N「Stage」\N\N\N\N\N
 Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(312.837,1393)}ｒｕｉ、化身バレッタ、\Nそぼろ、ましまし\N\N落書きさん、公開、\N怪獣対若大将P、\Nゆづき、＠Ａｉ
 Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Fonts」\N「Camera\N\h& Video」\N
 Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(341.552,1395)}あんずもじ、ＰｌａｙＤａｙ\N\N\Nｒｅｍｉｄａｐｙｏｎ

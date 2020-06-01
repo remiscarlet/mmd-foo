@@ -96,6 +96,11 @@
 - Color Grading
 - AA
 
+### Project Ideas
+- Remi
+    - shin's レミリア・スカーレットver1.01
+    - Cyber?
+
 ## Channels/Pages
 ### Vids/Motions
 - [MAO](https://ch.nicovideo.jp/mao415xxx/blomaga/ar732620?ref=pc_watch_description) (PV kits Umm???)
