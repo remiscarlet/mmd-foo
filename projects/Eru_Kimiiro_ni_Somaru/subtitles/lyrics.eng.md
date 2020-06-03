@@ -24,7 +24,7 @@ All I ever wanted to say was, "I love you"
 
 Even if I search for the right words to not hurt you
 I still end up rushing in, ending up back at square one
-Why does this feel all wrong, yet so right?
+Why does this feel so wrong, yet so right?
 I'll leave it to you to decide our fates.
 
 Before I knew it, I was dyed with your color

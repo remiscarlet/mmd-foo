@@ -1,5 +1,9 @@
 # 君色に染まる (Kimiiro ni Somaru)
 
+## Releases
+- [Youtube](https://www.youtube.com/watch?v=94J8AlPao0Y)
+- [ニコニコ動画]()
+
 ### Ideas/Notes:
 - Generally watch for when bg and fg are both moving quickly. Hard on the eyes and difficult to focus. (Eg, bg and face are both moving in shot a lot such that both are getting blurred.)
 - Generally watch out for cam movements with too high a velocity. Hard on the eyes.
@@ -14,8 +18,7 @@
 - Need to watch whole thing through more rather than AB repeating small sections. Losing sight of overall feel by tunnel visioning.
 
 ### Issues:
-- Middle section in general feels a bit restless. Use more no motion or minimal motion shots.
-- First section has a lot of excessively fast zooms
+- ???
 
 ### Subtitle notes:
 - Some kind of interesting kfx for rhythmically interesting parts?
@@ -26,8 +29,37 @@
 - KFX the title subs with some syl fx. Shiny slide fadein?
 	- Dissolve away into white dust/glitter?
 	- Nah. PITA with aegi
-- 1:41, do I care about that one frame leg spasm?
-- Update subs with new translations
+
+### Description
+TitleJp: 「MMD」エルさんが君色に染まっちゃう 「カメラ配布」
+TitleEng: [MMD] Eru-san's Kimi iro ni Somaru [Camera Motion DL]
+
+Desc:
+エルチャンネル：https://www.youtube.com/channel/UC8mp5Lz8gvctAxq0-b_UhIg
+
+どもす。エルさん可愛すぎなんでMMD初めて見ました。
+まだまだ素人ですがお楽しみください。
+
+Sup. Eru-san randomly inspired me to learn how 2 MMD.
+Stil a complete beginner but hope you can enjoy.
+
+「カメラ配布」「Camera Motion DL」
+https://bowlroll.net/file/228133
+
+「Music」 DECO\*27
+「Vocals」 ヲタみん
+
+「Model」 エルさん
+「Choreo」 足太ぺんた
+「Motion」 つん
+「Pose」 siva、cz0075
+
+「MME」 rui、化身バレッタ、そぼろ、ましまし
+「Stage」 落書きさん、公開、怪獣対若大将P、ゆづき、＠Ai
+
+「Fonts」 あんずもじ、Play Day
+「Camera & Video & Translation」 remidapyon
+
 
 ### History:
 - 2020/05/11 - Mostly adjusting framing and interpolation values to be less jerky. No new scenes.
@@ -42,3 +74,4 @@
 - 2020/05/27 - Fixed some issues. Made third section a bit less restless. Got a basic workflow for adding kfx layer.
 - 2020/05/28 - Lots of VirtualDub fuckery. Add subtitles/credits via kfx.
 - 2020/05/31 - Fix rest of weird motions. Add Wotamin credits. Aegisub is pain.
+- 2020/06/02 - Final small adjustments. Fix spazzy legs. Tiny camera adjustments.

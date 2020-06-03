@@ -16,8 +16,9 @@ Video File: A:/MMD Renders/Eru - Kimiiro ni Somaru/test16.1440p.avi
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 75
-Active Line: 83
+Scroll Position: 13
+Active Line: 17
+Video Position: 1899
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,8 +64,8 @@ Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{
 Comment: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(313.742,1395)}エルさん\N足太ぺんた\Nつん\Nｓｉｖａ、ｃｚ００７５
 Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「MME」\N\N\N\N「Stage」\N\N\N\N\N
 Comment: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(312.837,1393)}ｒｕｉ、化身バレッタ、\Nそぼろ、ましまし\N\N落書きさん、公開、\N怪獣対若大将P、\Nゆづき、＠Ａｉ
-Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Fonts」\N「Camera\N\h& Video」\N
-Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(341.552,1395)}あんずもじ、ＰｌａｙＤａｙ\N\N\Nｒｅｍｉｄａｐｙｏｎ
+Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(53.985,1395)}「Fonts」\N「{\fs50}Camera、\N\hTranslation、\N\h& Video{\fs60}」\N
+Comment: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,karaoke,{\pos(353.552,1397)}あんずもじ、ＰｌａｙＤａｙ\N\N\N\N\N{\fs50}ｒｅｍｉｄａｐｙｏｎ
 Dialogue: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,
 Comment: 0,0:00:31.02,0:00:35.74,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,期待してすぐに諦めて
 Comment: 0,0:00:35.74,0:00:41.01,jp_kimiiro-ni-somaru,jp,0,0,0,karaoke,曖昧な答えに流されては
@@ -113,8 +114,8 @@ Comment: 0,0:01:35.94,0:01:40.73,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I'd be 
 Comment: 0,0:01:40.73,0:01:45.91,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I know I keep getting in your way and I'm sorry, but
 Comment: 0,0:01:45.91,0:01:51.04,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,All I ever wanted to say was, "I love you"
 Comment: 0,0:01:55.08,0:02:00.11,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,Even if I search for the right words to not hurt you
-Comment: 0,0:02:00.11,0:02:04.70,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I still end up rushing in with half-complete thoughts
-Comment: 0,0:02:04.70,0:02:10.10,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,Why does this feel all wrong, yet so right?
+Comment: 0,0:02:00.11,0:02:04.70,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I still end up rushing in, ending up back at square one
+Comment: 0,0:02:04.70,0:02:10.10,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,Why does this feel so wrong, yet so right?
 Comment: 0,0:02:10.10,0:02:15.38,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I'll leave it to you to decide our fates
 Comment: 0,0:02:15.38,0:02:20.40,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,Before I knew it, I was dyed with your color
 Comment: 0,0:02:20.40,0:02:25.05,eng_kimiiro-ni-somaru,eng,0,0,0,karaoke,I want you to stain me with your casual words
@@ -135,8 +136,8 @@ Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\b
 Dialogue: 0,0:00:16.59,0:00:21.52,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(313.742,1395)}エルさん\N足太ぺんた\Nつん\Nｓｉｖａ、ｃｚ００７５
 Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「MME」\N\N\N\N「Stage」\N\N\N\N\N
 Dialogue: 0,0:00:21.52,0:00:26.62,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(312.837,1393)}ｒｕｉ、化身バレッタ、\Nそぼろ、ましまし\N\N落書きさん、公開、\N怪獣対若大将P、\Nゆづき、＠Ａｉ
-Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Fonts」\N「Camera\N\h& Video」\N
-Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(341.552,1395)}あんずもじ、ＰｌａｙＤａｙ\N\N\Nｒｅｍｉｄａｐｙｏｎ
+Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(53.985,1395)}「Fonts」\N「{\fs50}Camera、\N\hTranslation、\N\h& Video{\fs60}」\N
+Dialogue: 0,0:00:26.62,0:00:31.02,jp_kimiiro-ni-somaru - Credits,,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}{\pos(353.552,1397)}あんずもじ、ＰｌａｙＤａｙ\N\N\N\N\N{\fs50}ｒｅｍｉｄａｐｙｏｎ
 Dialogue: 0,0:00:31.02,0:00:35.74,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}期待してすぐに諦めて
 Dialogue: 0,0:00:35.74,0:00:41.01,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}曖昧な答えに流されては
 Dialogue: 0,0:00:41.01,0:00:45.64,jp_kimiiro-ni-somaru,jp,0,0,0,fx,{\r\blur2\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}自分だけ置いて行かれるような
@@ -183,8 +184,8 @@ Dialogue: 0,0:01:35.94,0:01:40.73,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6
 Dialogue: 0,0:01:40.73,0:01:45.91,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}I know I keep getting in your way and I'm sorry, but
 Dialogue: 0,0:01:45.91,0:01:51.04,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}All I ever wanted to say was, "I love you"
 Dialogue: 0,0:01:55.08,0:02:00.11,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}Even if I search for the right words to not hurt you
-Dialogue: 0,0:02:00.11,0:02:04.70,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}I still end up rushing in with half-complete thoughts
-Dialogue: 0,0:02:04.70,0:02:10.10,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}Why does this feel all wrong, yet so right?
+Dialogue: 0,0:02:00.11,0:02:04.70,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}I still end up rushing in, ending up back at square one
+Dialogue: 0,0:02:04.70,0:02:10.10,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}Why does this feel so wrong, yet so right?
 Dialogue: 0,0:02:10.10,0:02:15.38,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}I'll leave it to you to decide our fates
 Dialogue: 0,0:02:15.38,0:02:20.40,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}Before I knew it, I was dyed with your color
 Dialogue: 0,0:02:20.40,0:02:25.05,eng_kimiiro-ni-somaru,eng,0,0,0,fx,{\r\blur1.6\t(0,0,\bord5\be1\fad(300,400))\t(0,0,\bord2\be1)}I want you to stain me with your casual words

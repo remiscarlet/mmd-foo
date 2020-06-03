@@ -36,6 +36,8 @@
 		- SS logo, upscale, clean up in PS leaving a png with alpha.
 		- Import to blender, turn into 3d object and apply texture??
 - Use DoF shift in short cuts to give a zoom feel?
+- Using lighting changes with similar effect to DoF changes
+	- Dramatic lighting?
 
 ## Focal length shift usages
 - "Zoom in" feel without zooming in
@@ -53,7 +55,7 @@
 	- Aegisub
 	- Hardcode to video with separate alpha matte
 		- VirtualDub (Oooo blast from the past)
-			- Export to mov with h265
+			- Export to mov with x264 8bit
 		- Blank video render:
 			- `ffmpeg -t 193 -f lavfi -i color=c=black:s=854x480 -c:v libx264 -tune stillimage -pix_fmt yuv420p blank.mpeg`
 			- `ffmpeg -loop 1 -i "G:\Google Drive\MMD\Projects\projects\stills\854x480.black.png" -t 193 -r 30 -c:v libx264 blank.mp4`
@@ -89,7 +91,7 @@
 - ましまし Diffusions
 - lol conway GoL - penne sdCellularAutomata
 - Heh... Shinshiwaku fx...
-- HanaParticle/LooksReal fx
+- HanaParticle/LooksReal FX
 
 ## Things to read up on
 - UE has some nice [rendering docs](https://docs.unrealengine.com/en-US/Engine/Rendering/index.html)
@@ -99,7 +101,15 @@
 ### Project Ideas
 - Remi
     - shin's レミリア・スカーレットver1.01
+    - 紅魔城
+    	- ooh, make one eye glow with emissive mat
     - Cyber?
+    - 乙女解剖?
+    - [A]ddiction? (Oof)
+    - ゴーストルール？
+    - ONE OFF MIND
+- Amatsu
+	- オートファジー
 
 ## Channels/Pages
 ### Vids/Motions
@@ -108,6 +118,7 @@
 - [PizaCG](https://www.youtube.com/channel/UCpKgRpioJ1pMvIC9vqLzuGw)
 - [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437) 
 - [yurie](https://www.nicovideo.jp/user/5728901/video)
+- [山野](https://www.nicovideo.jp/user/2791331)
 
 ### Models
 - [銀時愛P](https://seiga.nicovideo.jp/user/illust/22024414)
