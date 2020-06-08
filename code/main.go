@@ -4,6 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 	"golang.org/x/text/encoding/japanese"
+	"golang.org/x/text/encoding/unicode"
 	"golang.org/x/text/transform"
 	"io/ioutil"
 	"math"
@@ -22,6 +23,7 @@ func truncateFromNullTerm(bytes *[]byte) *[]byte {
 	copied_bytes_n := copy(rtn_bytes, *bytes)
 	if copied_bytes_n == 0 {
 		fmt.Println("Copied zero bytes - is that right?")
+		fmt.Printf("rawbytes: %v - rawhex: %x\n", bytes, bytes)
 	}
 	return &rtn_bytes
 }
@@ -79,6 +81,18 @@ func (sect *FileStructureSection) DecodeContent() interface{} {
 	switch sect.SectType {
 	case STRING:
 		bytes := truncateFromNullTerm(sect.RawContent)
+		fmt.Println("## ATTEMPTED STRING DECODE ##")
+		for _, encoding := range japanese.All {
+			s, _, _ := transform.Bytes(encoding.NewDecoder(), *bytes)
+			fmt.Printf("# ENCODING: %+v\n", encoding)
+			fmt.Printf("Decoded: %s, %+v\n", s, s)
+		}
+		fmt.Println("## ATTEMPTED STRING DECODE UNICODE ##")
+		for _, encoding := range unicode.All {
+			s, _, _ := transform.Bytes(encoding.NewDecoder(), *bytes)
+			fmt.Printf("# ENCODING: %+v\n", encoding)
+			fmt.Printf("Decoded: %s, %+v\n", s, s)
+		}
 		s, _, err := transform.Bytes(japanese.ShiftJIS.NewDecoder(), *bytes)
 		if err != nil {
 			panic(err)
@@ -97,8 +111,8 @@ func (sect *FileStructureSection) DecodeContent() interface{} {
 }
 func (sect *FileStructureSection) PrintContent() {
 	data := sect.DecodeContent()
-	fmt.Printf("--------\n")
-	fmt.Printf("%v\n", data)
+	fmt.Printf("----- CONTENT -----\n")
+	fmt.Printf("%+v\n", data)
 	fmt.Printf("%s\n", data)
 	fmt.Printf("%d\n", data)
 }
@@ -150,26 +164,28 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 	populated_structures := make(map[string]*FileStructureSection)
 	for i, section := range structure {
 		if section.IsSimpleSection() {
+			fmt.Println("\n$$$$$ SIMPLE SECT $$$$$")
 			// Its own section
 			bytes_val, OFFSET, err = readBytes(content, OFFSET, section.ByteLen)
 			if err != nil {
 				panic(err)
 			}
 			section.SetRawContent(bytes_val)
-			//section.PrintContent()
+			section.PrintContent()
 
-			fmt.Printf("%d) %v - bytes: %v\n", i, section, *section.RawContent)
+			fmt.Printf("%d) %+v - bytes: %+v - byes2: %x\n", i, section, *section.RawContent, *section.RawContent)
 			populated_structures[section.Name] = section
 		} else {
+			fmt.Println("\n$$$$$ COMPLEX SECT $$$$$")
 			// Has subsections
 			fmt.Println("WIP")
-			fmt.Printf("%v\n", populated_structures)
+			fmt.Printf("populated_structures: %+v\n", populated_structures)
 
 			section_name_base := strings.Split(section.Name, ":")[0]
 			section_count := populated_structures[section_name_base+":count"].DecodeContent()
-			fmt.Printf("%v\n", section_count)
+			fmt.Printf("section_count: %+v\n", section_count)
 			//for frame_idx := 0; frame_idx <= section_count; frame_idx++ {
-			for frame_idx := 0; frame_idx <= 5; frame_idx++ {
+			for frame_idx := 0; frame_idx <= 1; frame_idx++ {
 				fmt.Println("++++++++++++++++++++++++++++++++++++++++++++")
 				switch section.SectType {
 				case BONEFRAMES_SUBSECT:
@@ -181,7 +197,7 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 					if err != nil {
 						panic(err)
 					}
-					fmt.Printf("SUBSECT: %v\n", populated_subsect)
+					fmt.Printf("SUBSECT: %+v\n", populated_subsect)
 					fmt.Printf("OFFSET: %d\n", OFFSET)
 				}
 			}
@@ -193,7 +209,8 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 
 func main() {
 	// Hey dipshit leave some comments next time.
-	filename := "kimiiro_ni_somaru_camera.vmd"
+	//filename := "kimiiro_ni_somaru_camera.vmd"
+	filename := "motion.vmd"
 	//encoding := "cp932"
 
 	content, err := ioutil.ReadFile(filename)
