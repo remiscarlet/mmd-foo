@@ -57,10 +57,10 @@ type BoneFrame struct {
 	FrameInterpo []byte
 }
 
-type Type int
+type SectType int
 
 const (
-	STRING Type = iota
+	STRING SectType = iota
 	INT
 	FLOAT
 	BYTES
@@ -70,13 +70,13 @@ const (
 type FileStructureSection struct {
 	Name       string
 	ByteLen    int
-	Type       Type
+	SectType   SectType
 	RawContent *[]byte
 	SubSect    []*FileStructureSection
 }
 
 func (sect *FileStructureSection) DecodeContent() interface{} {
-	switch sect.Type {
+	switch sect.SectType {
 	case STRING:
 		bytes := truncateFromNullTerm(sect.RawContent)
 		s, _, err := transform.Bytes(japanese.ShiftJIS.NewDecoder(), *bytes)
@@ -108,8 +108,8 @@ func (sect *FileStructureSection) SetRawContent(b_arr *[]byte) {
 }
 
 func (sect *FileStructureSection) IsSimpleSection() bool {
-	for _, t := range []Type{STRING, INT, FLOAT, BYTES} {
-		if t == sect.Type {
+	for _, t := range []SectType{STRING, INT, FLOAT, BYTES} {
+		if t == sect.SectType {
 			return true
 		}
 	}
@@ -156,7 +156,7 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 				panic(err)
 			}
 			section.SetRawContent(bytes_val)
-			section.PrintContent()
+			//section.PrintContent()
 
 			fmt.Printf("%d) %v - bytes: %v\n", i, section, *section.RawContent)
 			populated_structures[section.Name] = section
@@ -171,7 +171,7 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 			//for frame_idx := 0; frame_idx <= section_count; frame_idx++ {
 			for frame_idx := 0; frame_idx <= 5; frame_idx++ {
 				fmt.Println("++++++++++++++++++++++++++++++++++++++++++++")
-				switch section.Type {
+				switch section.SectType {
 				case BONEFRAMES_SUBSECT:
 					var populated_subsect map[string]*FileStructureSection
 
@@ -192,7 +192,8 @@ func loadStructures(structure []*FileStructureSection, content *[]byte, OFFSET i
 }
 
 func main() {
-	filename := "motion.vmd"
+	// Hey dipshit leave some comments next time.
+	filename := "kimiiro_ni_somaru_camera.vmd"
 	//encoding := "cp932"
 
 	content, err := ioutil.ReadFile(filename)
@@ -204,7 +205,7 @@ func main() {
 	structure := getFileStructure()
 
 	populated_structures, OFFSET, err := loadStructures(structure, &content, OFFSET)
-	fmt.Printf("%v\n", populated_structures)
+	fmt.Printf("-----%v\n", populated_structures)
 
 	return
 }

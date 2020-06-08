@@ -6,4 +6,4 @@ idk, random stuff. Fucking with VMD content parsing.
 Resources:
 - https://mikumikudance.fandom.com/wiki/VMD_file_format
 Motion file from:
-- https://www.nicovideo.jp/watch/sm32113909
+- https://www.nicovideo.jp/watch/sm36969890
