@@ -3,6 +3,20 @@
 
 idk, random stuff. Fucking with VMD content parsing.
 
+## Other Tool Ideas
+- Long shot. Custom read minecraft world data and custom render it in unity/blender/etc and export to mmd to use as stage. Eg, with Remi and SDM.
+	- World data parser
+		- `pip install NBT` or `DonoA/PyAnvilEditor`(No pip?) for parsing the data
+	- Less complicated:
+		- export world as obj (`jMc2Obj`)
+			- Texture export from resource pack is stalling. Gonna need to dig into source code to figure out why :(
+		- Load into blender and export as `.x`
+	- This is done via:
+		- mineways for mc world to `.obj` export
+		- Blender for `.obj` to `.pmx` using hacked `blpymeshio`
+		- PMXEditor for `.pmx` to `.x` (`.pmx` crashes MMD due to size?)
+		- MMD for importing `.x`
+
 ## Notes
 - I think camera motions are a special case with bone names and don't have the "camera" string assigned but rather a special byte marker.
     - `bytes: [0 0 0 0 25 1 0 0 0 0 0 0 0 0 24] - bytes2: 000000001901000000000000000018`

@@ -2,7 +2,7 @@
 
 ## Releases
 - [Youtube](https://www.youtube.com/watch?v=94J8AlPao0Y)
-- [ニコニコ動画]()
+- [ニコニコ動画](https://www.nicovideo.jp/watch/sm36969890)
 
 ### Ideas/Notes:
 - Generally watch for when bg and fg are both moving quickly. Hard on the eyes and difficult to focus. (Eg, bg and face are both moving in shot a lot such that both are getting blurred.)

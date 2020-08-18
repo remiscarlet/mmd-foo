@@ -118,7 +118,8 @@
 - [PizaCG](https://www.youtube.com/channel/UCpKgRpioJ1pMvIC9vqLzuGw)
 - [ちゃーりぃ](https://www.nicovideo.jp/mylist/49944437) 
 - [yurie](https://www.nicovideo.jp/user/5728901/video)
-- [山野](https://www.nicovideo.jp/user/2791331)
+- [山野](https://www.nicovideo.jp/user/2791331) 
+- [ごしかん](https://www.nicovideo.jp/user/5698863)
 
 ### Models
 - [銀時愛P](https://seiga.nicovideo.jp/user/illust/22024414)
