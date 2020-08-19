@@ -6,7 +6,13 @@ Acs1 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray.x
 Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of day.pmx
 Pmd3 = G:\Google Drive\MMD\Models\Characters\レミリア・スカーレットver1.01-s\レミリア・スカーレットver1.01.pmx
 Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray_controller.pmx
-Acs6 = A:\Blender\sdm_smaller.exported.x
+Pmd6 = G:\Google Drive\MMD\MME\PostMovie_v1_0\PostMovieコントローラ.pmx
+Pmd7 = G:\Google Drive\MMD\Models\SKYDOMES\スカイドーム_火炎の空TG2_配布物\Skydome_TG2\Dome_TG201.pmx
+Pmd8 = G:\Google Drive\MMD\Models\SKYDOMES\スカイドーム_噴火TH5_配布物\Skydome_TH5\Dome_TH501.pmx
+Acs9 = G:\Google Drive\MMD\MME\ColorShake_v1_0_1\ColorShake_v1_0_1\ColorShake.x
+Acs10 = G:\Google Drive\MMD\MME\PostMovie_v1_0\PostMovie_赤系.x
+Acs11 = A:\Blender\sdm.full.x
+Acs12 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AutoLuminous.x
 
 [Effect]
 Default = none
@@ -14,8 +20,12 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of day\Time of day.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Pmd3.show = true
 Pmd4 = none
-Acs6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
-Acs6.show = true
+Pmd6 = none
+Pmd7 = none
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd8.show = true
+Acs11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Acs11.show = true
 
 [Effect@EnvLightMap]
 Owner = Acs1
@@ -26,9 +36,17 @@ Pmd3 = none
 Pmd3.show = false
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
-Acs6[171] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\SphereLight\sphere_shadow.fx
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@FogMap]
 Owner = Acs1
@@ -39,8 +57,17 @@ Pmd3 = none
 Pmd3.show = false
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@LightMap]
 Owner = Acs1
@@ -51,21 +78,46 @@ Pmd3 = none
 Pmd3.show = false
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
-Acs6[171] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\SphereLight\Default\sphere_lighting.fx
-Acs6[171].show = true
+Pmd6 = none
+Pmd6.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@MaterialMap]
 Owner = Acs1
 Acs1.show = false
 Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
-Pmd3[11] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x4\material_red_x4.fx
+Pmd3[7] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Cloth\material_cloth.fx
+Pmd3[8] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Cloth\material_cloth.fx
+Pmd3[11] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x2\material_red_x2.fx
+Pmd3[12] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Metallic\Flat ingot worn\material_worn_silver.fx
+Pmd3[14] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x1\material_albedo_x1.fx
+Pmd3[15] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\material_lighting.fx
+Pmd3[21] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Skin\material_skin_melanoderm.fx
+Pmd3[26] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Skin\TDA\material_TDA_face_red.fx
+Pmd3[34] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Hair\material_hair.fx
+Pmd3[35] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Hair\material_hair.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
-Acs6.show = true
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Acs11.show = true
+Acs11[50] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Acs11[136] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Acs11[165] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x2\material_albedo_x2.fx
+Acs12.show = false
 
 [Effect@OutlineMap]
 Owner = Acs1
@@ -74,8 +126,14 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@PSSM1]
 Owner = Acs1
@@ -84,8 +142,14 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@PSSM2]
 Owner = Acs1
@@ -94,8 +158,14 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@PSSM3]
 Owner = Acs1
@@ -104,8 +174,14 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@PSSM4]
 Owner = Acs1
@@ -114,8 +190,14 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = none
-Acs6.show = false
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = none
+Acs11.show = false
+Acs12.show = false
 
 [Effect@SSAOMap]
 Owner = Acs1
@@ -124,5 +206,25 @@ Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd4 = none
 Pmd4.show = false
-Acs6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Acs9.show = false
+Acs10.show = false
+Acs11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Acs12.show = false
+
+[Effect@AL_EmitterRT]
+Owner = Acs12
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Pmd3 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Pmd4 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Pmd6 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Pmd7 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Pmd8 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Acs9.show = false
+Acs10.show = false
+Acs11 = G:\Google Drive\MMD\MME\SOBORO FX\AutoLuminous4\AutoLuminous4\AL_Object.fxsub
+Acs12.show = false
 

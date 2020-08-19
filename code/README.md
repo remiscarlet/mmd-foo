@@ -13,6 +13,12 @@ idk, random stuff. Fucking with VMD content parsing.
 		- Load into blender and export as `.x`
 	- This is done via:
 		- mineways for mc world to `.obj` export
+			- Add custom texturefile
+			- Each block 1000mm
+			- Export separate types
+			- Material per family
+			- Do NOT export individual blocks
+			- Do NOT split by block type
 		- Blender for `.obj` to `.pmx` using hacked `blpymeshio`
 		- PMXEditor for `.pmx` to `.x` (`.pmx` crashes MMD due to size?)
 		- MMD for importing `.x`
