@@ -4,6 +4,8 @@
 idk, random stuff. Fucking with VMD content parsing.
 
 ## Other Tool Ideas
+- VMD parser:
+    - Parsing the content could be written as a state machine??? This might make things more straight forward
 - Long shot. Custom read minecraft world data and custom render it in unity/blender/etc and export to mmd to use as stage. Eg, with Remi and SDM.
 	- World data parser
 		- `pip install NBT` or `DonoA/PyAnvilEditor`(No pip?) for parsing the data
@@ -19,9 +21,9 @@ idk, random stuff. Fucking with VMD content parsing.
 			- Material per family
 			- Do NOT export individual blocks
 			- Do NOT split by block type
-		- Blender for `.obj` to `.pmx` using hacked `blpymeshio`
-		- PMXEditor for `.pmx` to `.x` (`.pmx` crashes MMD due to size?)
-		- MMD for importing `.x`
+		- Blender for `.obj` to `.pmx` using modified `blpymeshio`
+		- PMXEditor for `.pmx` to `.x` (`.pmx` crashes MMD due to size?)(Take advantage of AutoLuminous when exporting)
+		- MMD for importing `.x` (Load AL4 if using)
 
 ## Notes
 - I think camera motions are a special case with bone names and don't have the "camera" string assigned but rather a special byte marker.

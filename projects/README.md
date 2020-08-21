@@ -136,7 +136,10 @@
 - [ましまし](https://www.nicovideo.jp/user/14675117/video)
 - [pennennennennennenem](https://pennennennennennenem.github.io/MME/index.html)
 - [針金P](https://ch.nicovideo.jp/Harigane/blomaga/ar500418)
-
+- Chestnutscoop Compilations
+	- MME's [A-H](https://www.deviantart.com/chestnutscoop/art/A-Collection-of-ALL-MMD-Effects-A-H-Links-828322905)
+	- MME's [I-Q](https://www.deviantart.com/chestnutscoop/art/A-Collection-of-ALL-MMD-Effects-N-Z-Links-831715937?ga_submit_new=10%3A1582649980)
+	- MME's [R-Z](https://www.deviantart.com/chestnutscoop/art/A-Collection-of-ALL-MMD-Effects-R-Z-Links-851068467?ga_submit_new=10%3A1596647929)
 ### Tools
 - [Mogg](https://sites.google.com/site/moggproject/enghome)
 
@@ -150,7 +153,8 @@
 - [MMDステージ配布あり](https://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A) (p14)
 - [RemiTda :(](https://3d.nicovideo.jp/works/td26230)
 - [DirectX .x File Format Specification](http://www.cgdev.net/axe/x-file.html)
-- [ffmpeg docs](https://ffmpeg.org/ffmpeg-formats.html#aa)
+- [ffmpeg docs](https://ffmpeg.org/ffmpeg-formats.html#aa)  
+- [MME Writeup](https://www.deviantart.com/taemojitsu/art/Guide-to-creating-effects-in-MMD-MME-805443302)
 
 ## Powershell wryy
 - `Get-ChildItem -Path *.zip -File | ForEach {expand-archive -path $_.fullname -destinationpath 'unzipped/'}`
