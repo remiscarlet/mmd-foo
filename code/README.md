@@ -6,6 +6,10 @@ idk, random stuff. Fucking with VMD content parsing.
 ## Other Tool Ideas
 - VMD parser:
     - Parsing the content could be written as a state machine??? This might make things more straight forward
+    - Or I might do this as a side project and just use `pymeshio` to get working on the actual tools...
+- You know what I really hate. MME effects and how I have 100+ folders and only know what a dozen of them look like...
+	- Somehow auto generate MMD screenshots of effects? Would be more aimed at postfx or general screen fx though. What category of fx are there?
+- More generally for above, some kind of MME organizer/parser/etc in general would be great. There's currently so little support for organizing them.
 - Long shot. Custom read minecraft world data and custom render it in unity/blender/etc and export to mmd to use as stage. Eg, with Remi and SDM.
 	- World data parser
 		- `pip install NBT` or `DonoA/PyAnvilEditor`(No pip?) for parsing the data
@@ -34,5 +38,6 @@ idk, random stuff. Fucking with VMD content parsing.
 Resources:
 - https://mikumikudance.fandom.com/wiki/VMD_file_format
 - https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d
+- http://atupdate.web.fc2.com/vmd_format.htm
 Motion file from:
 - https://www.nicovideo.jp/watch/sm36969890

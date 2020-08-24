@@ -12,6 +12,7 @@
 		- Scene 1-2: Scenic shots of SDM. (Consider 2 beats instead of 4 to get 4 shots in)
 		- Scene 3: Remi sillhouette on moon
 		- Scene 4: Remi on bridge outside her room or center pillar with full moon in background. Eyes closed. Zoom in/open eyes on last 2 beats.
+			- White/light flash as transition back into chorus? (Also works as a transition for the fx like desaturation etc)
 			- ぽろなう用ポーズ 05-11?
 	- 16 measure chorus
 	- 4 measure intro '
@@ -27,10 +28,15 @@
 				- Remi: 私、咲夜中毒かも。。。
 				- Remi: I think I'm addicted to you...
 	- 16 measure chorus
+		- Back gardens
+		- Exaggerate camera motions to match the large arm motions
 	- 16 measure B section <- show off on cinematographics/fast movements
+		- Back gardens
 	- 8 measure bridge
 		- Some other "cutscene" or some other new format?
 	- 16 measure chorus/outro
+		- On roof? Custom stage?
+		- Could ask builders...? esp cuz last section - could show everything else I have.
 	- SCRAPPED
 		- For first bridge, original thoughts:
 		- Scene 4: Remi on bridge outside her room with full moon in background. Eyes closed. Zoom in/open eyes on last 2 beats.
@@ -56,6 +62,10 @@
 - Move position to somewhere on roof for headboom?? Jump between pillars? Idk, get her out from in front.
 - Head tilt looks bad. Attach camera to a bone in the face/head area temporarily for tilt?
 	- This looks a lot better now but could still improve?
+- Floaty hands @ 0:21
+- Find better materials. Hat looks like it's made out of denim...
+- Headboom fx needs tweaking. Just kinda feels weak...
+- Texture/material on windows for sdm? Generally speaking, redoing texture/materials/AL where appropriate? (torches, glowstone, etc)
 
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -65,3 +75,10 @@
 	- Consider using ampitheater in the back too tho
 - Utilize shadow fx more
 - use ground fog in sequeneces of scenes with color distortion. Snappy camera movements, esp when catching  the ground fog. Bonus if can find choreo of Remilia pointing down.
+
+## History
+- 2020/08/22 - Add in cheaplens, diffusion, motion blur, post process shaders. Add :26-:32, adjust broach gem and hair materials.
+- 2020/08/21 - More tweaks from :15-:26. Add some fx. Add some links to readmes. Asset hunting(GyuunyuuP is back huzzah). Planning/brainstorming for overall structure. Start on 'cutscenes'. 
+- 2020/08/20 - Clean up :15-:26. Tweak raymmd materials. Add more notes/brainstorming.
+- 2020/08/19 - fx/raymmd tweaks. Add first pass camera up to :23
+- 2020/08/18 - Start project. Find assets. Add first ~:10 seconds
