@@ -15,8 +15,8 @@
 			- White/light flash as transition back into chorus? (Also works as a transition for the fx like desaturation etc)
 			- ぽろなう用ポーズ 05-11?
 	- 16 measure chorus
-	- 4 measure intro '
-	- 16 measure A '
+	- 4 measure intro'
+	- 16 measure A'
 	- 8 measure bridge
 		- Continuing earlier bridge. Same format
 		- Scene 1: Remi holding/pulling Sakuya's hand (Standing facing each other, sakuya one hand out, remi both hands out clasping sakuya hand)
@@ -24,7 +24,7 @@
 				- Remi: Come.
 		- Scene 2: ???
 		- Scene 3: Remi and Sakuya on bed? (something leading up to final scene
-)		- Scene 4: Remi whispering 'I'm addicted to you' to Sakuya. Remi head on Sakuya's shoulder from behind, whispering into her ear.
+ 		- Scene 4: Remi whispering 'I'm addicted to you' to Sakuya. Remi head on Sakuya's shoulder from behind, whispering into her ear.
 				- Remi: 私、咲夜中毒かも。。。
 				- Remi: I think I'm addicted to you...
 	- 16 measure chorus
@@ -63,9 +63,11 @@
 - Head tilt looks bad. Attach camera to a bone in the face/head area temporarily for tilt?
 	- This looks a lot better now but could still improve?
 - Floaty hands @ 0:21
-- Find better materials. Hat looks like it's made out of denim...
+- Find better materials. Hat looks like it's made out of denim... (idk, it's kinda growing on me though)
 - Headboom fx needs tweaking. Just kinda feels weak...
 - Texture/material on windows for sdm? Generally speaking, redoing texture/materials/AL where appropriate? (torches, glowstone, etc)
+- 1:08 "Ooh, ooh, oh oh." - The last two "oh"s are too fast on the interpolation. Slow down.
+- Hat still clipping off-crop on a few scenes in chorus still (that aren't intentional closeups).
 
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -77,6 +79,7 @@
 - use ground fog in sequeneces of scenes with color distortion. Snappy camera movements, esp when catching  the ground fog. Bonus if can find choreo of Remilia pointing down.
 
 ## History
+- 2020/11/13 - aaaaaaaaaaaaa. Fuck the bridge. First pass at chorus. Bit of A' section. 0:43-1:23 Adjust lighting/PostMovie.
 - 2020/08/22 - Add in cheaplens, diffusion, motion blur, post process shaders. Add :26-:32, adjust broach gem and hair materials.
 - 2020/08/21 - More tweaks from :15-:26. Add some fx. Add some links to readmes. Asset hunting(GyuunyuuP is back huzzah). Planning/brainstorming for overall structure. Start on 'cutscenes'. 
 - 2020/08/20 - Clean up :15-:26. Tweak raymmd materials. Add more notes/brainstorming.
