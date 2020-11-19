@@ -64,10 +64,13 @@
 	- This looks a lot better now but could still improve?
 - Floaty hands @ 0:21
 - Find better materials. Hat looks like it's made out of denim... (idk, it's kinda growing on me though)
-- Headboom fx needs tweaking. Just kinda feels weak...
 - Texture/material on windows for sdm? Generally speaking, redoing texture/materials/AL where appropriate? (torches, glowstone, etc)
-- 1:08 "Ooh, ooh, oh oh." - The last two "oh"s are too fast on the interpolation. Slow down.
 - Hat still clipping off-crop on a few scenes in chorus still (that aren't intentional closeups).
+- Bursts of out-of-focus (from arm/leg/wings getting too close/focal depth)
+- Fix bad shots with bad framing
+- fly up shots are a bit too fast on interpo
+		- Second set of kicks are pretty good feel for interpo speeds
+- bridge#2 spin needs better framing. Movement/speed is pretty good.
 
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -79,6 +82,8 @@
 - use ground fog in sequeneces of scenes with color distortion. Snappy camera movements, esp when catching  the ground fog. Bonus if can find choreo of Remilia pointing down.
 
 ## History
+- 2020/11/16 - Clean up a bunch of weird bone positions. Out-of-focus cleanup. Change up that intro clock thing. Interpolation refining. Add 1:40-1:49
+- 2020/11/14 - 1:12-1:23 modify to be variation/embelleshment of A section. 1:23-1:40 first pass.
 - 2020/11/13 - aaaaaaaaaaaaa. Fuck the bridge. First pass at chorus. Bit of A' section. 0:43-1:23 Adjust lighting/PostMovie.
 - 2020/08/22 - Add in cheaplens, diffusion, motion blur, post process shaders. Add :26-:32, adjust broach gem and hair materials.
 - 2020/08/21 - More tweaks from :15-:26. Add some fx. Add some links to readmes. Asset hunting(GyuunyuuP is back huzzah). Planning/brainstorming for overall structure. Start on 'cutscenes'. 
