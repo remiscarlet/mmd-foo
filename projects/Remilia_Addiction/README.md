@@ -1,8 +1,8 @@
 # Remilia's [A]ddiction 
 
 ## Notes
-- We gonna make this one spicy, bois. Turn everything up to 100 and try to do lots of fx.
-- If can find a thematicaly matching flan (wtf am I saying- use sakuya), use her in "cutscenes" in MV-esque fashion.
+- We gonna make this one spicy. Turn everything up to 100 and try to do lots of fx.
+- If can find a thematicaly matching flan (wtf am I saying- use sakuya), use her in "cutscenes" in MV-esque fashion?
 - Song breakdown
 	- 4 measure intro
 	- 16 measure A section
@@ -18,15 +18,6 @@
 	- 4 measure intro'
 	- 16 measure A'
 	- 8 measure bridge
-		- Continuing earlier bridge. Same format
-		- Scene 1: Remi holding/pulling Sakuya's hand (Standing facing each other, sakuya one hand out, remi both hands out clasping sakuya hand)
-				- Remi: 来て。
-				- Remi: Come.
-		- Scene 2: ???
-		- Scene 3: Remi and Sakuya on bed? (something leading up to final scene
- 		- Scene 4: Remi whispering 'I'm addicted to you' to Sakuya. Remi head on Sakuya's shoulder from behind, whispering into her ear.
-				- Remi: 私、咲夜中毒かも。。。
-				- Remi: I think I'm addicted to you...
 	- 16 measure chorus
 		- Back gardens
 		- Exaggerate camera motions to match the large arm motions
@@ -37,18 +28,6 @@
 	- 16 measure chorus/outro
 		- On roof? Custom stage?
 		- Could ask builders...? esp cuz last section - could show everything else I have.
-	- SCRAPPED
-		- For first bridge, original thoughts:
-		- Scene 4: Remi on bridge outside her room with full moon in background. Eyes closed. Zoom in/open eyes on last 2 beats.
-			- No dialogue 
-			- ぽろなう用ポーズ 05-11?
-		- Scene 2: Sakuya doing chores or something. Nonchalant.
-			- No dialogue
-		- Scene 3: Camera facing Remi's back, walking towards Sakuya. Sakuya back turned
-			- No dialogue
-		- Scene 4: Remi grabbing/surprising Sakuya from behind. More of a sensual grab than a "haguuu~" hug
-			- Remi: ねえ、咲夜。。。
-			- Remi: Hey, Sakuya...
 - Change camera angle/position every 2-6 beats opting to change on the downbeat or the three.
 - Repetition Legitimizes. Use similar but short camera motions in repetition to set a motif. Short "burst" slides, for example. Reset distance to model but change position and repeat general motion.
 - Consider "weird angles" (upside down, sideways) for short scenes 
@@ -71,6 +50,13 @@
 - fly up shots are a bit too fast on interpo
 		- Second set of kicks are pretty good feel for interpo speeds
 - bridge#2 spin needs better framing. Movement/speed is pretty good.
+		- super lowkey fx scene needs better framing
+- Airhorns need more impact. Camera doesn't focus on the impact point (is transitioning)
+- Chest bump - zoom out a bit in A' section - too claustrophobic
+- drop-zoom-up needs better timing (refine)
+- chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
+- Kick 2, first half, chorus - needs less distance zoom - rely more on view angle
+- spin away in bridge#2 has a moment where it completely stops - this kills momentum/flow.
 
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -79,9 +65,10 @@
 - Yo, I could make a small stage in minecraft and export that as a second stage model to use in the bridge or smth.
 	- Consider using ampitheater in the back too tho
 - Utilize shadow fx more
-- use ground fog in sequeneces of scenes with color distortion. Snappy camera movements, esp when catching  the ground fog. Bonus if can find choreo of Remilia pointing down.
+- use ground fog in sequences of scenes with color distortion. Snappy camera movements, esp when catching the ground fog. Bonus if can find choreo of Remilia pointing down.
 
 ## History
+- 2020/11/19 - More cleanup/refining. Redo bridge#2. Lots more interpolations.
 - 2020/11/16 - Clean up a bunch of weird bone positions. Out-of-focus cleanup. Change up that intro clock thing. Interpolation refining. Add 1:40-1:49
 - 2020/11/14 - 1:12-1:23 modify to be variation/embelleshment of A section. 1:23-1:40 first pass.
 - 2020/11/13 - aaaaaaaaaaaaa. Fuck the bridge. First pass at chorus. Bit of A' section. 0:43-1:23 Adjust lighting/PostMovie.
