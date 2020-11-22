@@ -26,7 +26,7 @@
 	- 8 measure bridge
 		- Some other "cutscene" or some other new format?
 	- 16 measure chorus/outro
-		- On roof? Custom stage?
+		- On roof? Custom stage? Maybe out front in front of gates to get the "whole SDM" in the shots? Stage would be nice to lift up the camera from ground level (to get more sdm in the bg)
 		- Could ask builders...? esp cuz last section - could show everything else I have.
 - Change camera angle/position every 2-6 beats opting to change on the downbeat or the three.
 - Repetition Legitimizes. Use similar but short camera motions in repetition to set a motif. Short "burst" slides, for example. Reset distance to model but change position and repeat general motion.
@@ -46,17 +46,9 @@
 - Texture/material on windows for sdm? Generally speaking, redoing texture/materials/AL where appropriate? (torches, glowstone, etc)
 - Hat still clipping off-crop on a few scenes in chorus still (that aren't intentional closeups).
 - Bursts of out-of-focus (from arm/leg/wings getting too close/focal depth)
-- Fix bad shots with bad framing
-- fly up shots are a bit too fast on interpo
-		- Second set of kicks are pretty good feel for interpo speeds
-- bridge#2 spin needs better framing. Movement/speed is pretty good.
-		- super lowkey fx scene needs better framing
 - Airhorns need more impact. Camera doesn't focus on the impact point (is transitioning)
 - Chest bump - zoom out a bit in A' section - too claustrophobic
-- drop-zoom-up needs better timing (refine)
 - chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
-- Kick 2, first half, chorus - needs less distance zoom - rely more on view angle
-- spin away in bridge#2 has a moment where it completely stops - this kills momentum/flow.
 
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -68,6 +60,7 @@
 - use ground fog in sequences of scenes with color distortion. Snappy camera movements, esp when catching the ground fog. Bonus if can find choreo of Remilia pointing down.
 
 ## History
+- 2020/11/21 - A' and bridge#2 go to back of SDM. Chorus#2 and B section go to lobby. Adjust skydome for empty skies in back of SDM. Refine framing a bit in chorus#2.
 - 2020/11/19 - More cleanup/refining. Redo bridge#2. Lots more interpolations.
 - 2020/11/16 - Clean up a bunch of weird bone positions. Out-of-focus cleanup. Change up that intro clock thing. Interpolation refining. Add 1:40-1:49
 - 2020/11/14 - 1:12-1:23 modify to be variation/embelleshment of A section. 1:23-1:40 first pass.
