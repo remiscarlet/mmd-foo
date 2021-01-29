@@ -22,7 +22,7 @@
 		- Back gardens
 		- Exaggerate camera motions to match the large arm motions
 	- 16 measure B section <- show off on cinematographics/fast movements
-		- Back gardens
+		- Flashes of stills in other parts of mansion? 1-2 beats long
 	- 8 measure bridge
 		- Some other "cutscene" or some other new format?
 	- 16 measure chorus/outro
@@ -38,18 +38,14 @@
 - Generally try to make changes on a per-axis basis. Eg if I want a longer scene to spin z axis, as long as I only modify z axis and I want a y axis spin halfway through that longer scene, I can make adjustments to the y axis while retaining the rate of change on z axis from the longer scene. Kinda like inheritence in a way lol
 
 ## Issues/Todos
-- Move position to somewhere on roof for headboom?? Jump between pillars? Idk, get her out from in front.
 - Head tilt looks bad. Attach camera to a bone in the face/head area temporarily for tilt?
 	- This looks a lot better now but could still improve?
 - Floaty hands @ 0:21
 - Find better materials. Hat looks like it's made out of denim... (idk, it's kinda growing on me though)
-- Texture/material on windows for sdm? Generally speaking, redoing texture/materials/AL where appropriate? (torches, glowstone, etc)
-- Hat still clipping off-crop on a few scenes in chorus still (that aren't intentional closeups).
-- Bursts of out-of-focus (from arm/leg/wings getting too close/focal depth)
 - Airhorns need more impact. Camera doesn't focus on the impact point (is transitioning)
-- Chest bump - zoom out a bit in A' section - too claustrophobic
 - chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
-
+- The fast camera movement sections should center Remi more. Too much jerking around <<<===
+ 
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
 - When releasing genso v3 trailer also thrown in a "also check out" at the end of trailer for like 10 seconds with excerpts from this video with fade in/outs. High quality shit.
@@ -58,8 +54,16 @@
 	- Consider using ampitheater in the back too tho
 - Utilize shadow fx more
 - use ground fog in sequences of scenes with color distortion. Snappy camera movements, esp when catching the ground fog. Bonus if can find choreo of Remilia pointing down.
+- In general camera should feel "snappier". Too "dull"/"flat" right now
+- B section, contrast fast dance choreo with "medium speed" camera movement. Avg every 2 beats. (1/2/4 beats, fast/med/slow)
 
 ## History
+- 2020/12/25 - Endlessly adjusting stage tex/mats/etc. Lighting. More camera interpolation adjustments. Mostly in chorus.
+- 2020/12/23-24 - Endlessly adjusting chorus camera.
+- 2020/12/21 - Idk, simplify chorus camera a bit. Too busy.
+- 2020/12/18 - Add spherelights. A tiny bit of B section.
+- 2020/12/03 - More framing fixes. Get whole body in shots - shoes esp.  
+- 2020/12/02 - Holy shit I hate how everything looks. Too claustrophobic. Really claustrophobic. Btfu. Adjusted framing for first half. No new scenes.
 - 2020/11/21 - A' and bridge#2 go to back of SDM. Chorus#2 and B section go to lobby. Adjust skydome for empty skies in back of SDM. Refine framing a bit in chorus#2.
 - 2020/11/19 - More cleanup/refining. Redo bridge#2. Lots more interpolations.
 - 2020/11/16 - Clean up a bunch of weird bone positions. Out-of-focus cleanup. Change up that intro clock thing. Interpolation refining. Add 1:40-1:49

@@ -155,6 +155,7 @@
 - [DirectX .x File Format Specification](http://www.cgdev.net/axe/x-file.html)
 - [ffmpeg docs](https://ffmpeg.org/ffmpeg-formats.html#aa)  
 - [MME Writeup](https://www.deviantart.com/taemojitsu/art/Guide-to-creating-effects-in-MMD-MME-805443302)
+- [Motion Compilation](https://www.deviantart.com/mmd-nay-pmd/art/New-MMD-Motion-Data-Index-A-L-526892180)
 
 ## Powershell wryy
 - `Get-ChildItem -Path *.zip -File | ForEach {expand-archive -path $_.fullname -destinationpath 'unzipped/'}`
