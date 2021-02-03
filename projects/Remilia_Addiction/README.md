@@ -21,7 +21,7 @@
 	- 16 measure chorus
 		- Back gardens
 		- Exaggerate camera motions to match the large arm motions
-	- 16 measure B section <- show off on cinematographics/fast movements
+	- 16 measure B section
 		- Flashes of stills in other parts of mansion? 1-2 beats long
 	- 8 measure bridge
 		- Some other "cutscene" or some other new format?
@@ -58,6 +58,8 @@
 - B section, contrast fast dance choreo with "medium speed" camera movement. Avg every 2 beats. (1/2/4 beats, fast/med/slow)
 
 ## History
+- 2021/02/02 - Placeholder Section B. Placeholder bridge. Try remixsakuya scene. Copypasted movements for outro. Move scene back to front of SDM (same as section A)
+- 2021/01/26-31 - Oops. Did something. Probably more camera interpolation changes.
 - 2020/12/25 - Endlessly adjusting stage tex/mats/etc. Lighting. More camera interpolation adjustments. Mostly in chorus.
 - 2020/12/23-24 - Endlessly adjusting chorus camera.
 - 2020/12/21 - Idk, simplify chorus camera a bit. Too busy.
