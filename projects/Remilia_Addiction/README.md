@@ -14,7 +14,7 @@
 		- Scene 4: Remi on bridge outside her room or center pillar with full moon in background. Eyes closed. Zoom in/open eyes on last 2 beats.
 			- White/light flash as transition back into chorus? (Also works as a transition for the fx like desaturation etc)
 			- ぽろなう用ポーズ 05-11?
-		- "あたしね。。。秘密あるの。。。近い人に。。。"
+		- "あたしね。。。秘密あるの。。。愛しい人に。。。"
 		- "I have a secret... Someone close to me... I think it's..."
 		- "an [A]ddiction"
 		- "[A]ddictionがあるの"
@@ -29,6 +29,8 @@
 		- Flashes of stills in other parts of mansion? 1-2 beats long
 	- 8 measure bridge
 		- Some other "cutscene" or some other new format?
+		- 「ねえ、咲夜。。。あたし咲夜のこと。。。」
+		- "Hey Sakuya... I think I..."
 	- 16 measure chorus/outro
 		- On roof? Custom stage? Maybe out front in front of gates to get the "whole SDM" in the shots? Stage would be nice to lift up the camera from ground level (to get more sdm in the bg)
 		- Could ask builders...? esp cuz last section - could show everything else I have.
@@ -61,7 +63,20 @@
 - In general camera should feel "snappier". Too "dull"/"flat" right now
 - B section, contrast fast dance choreo with "medium speed" camera movement. Avg every 2 beats. (1/2/4 beats, fast/med/slow)
 
+## Credits
+- Music: Giga
+- Vocals: Reol
+- Model: shin
+- Choreo: 足太ぺんた
+- Motion: hino
+- MME: rui, ビームマンP, そぼろ, SANDMAN, データP
+- Fonts: Togalite, Pirata One, Modern Sans
+- Stage: kaiwakap, winglayer
+- SDM/紅魔館: remidapyon x Yukkuricraft
+- Camera, Video: remidapyon
+
 ## History
+- 2021/03/04.5 - Finish first pass bridge#2. 
 - 2021/03/04 - Start working on bridge#2 cutscene
 - 2021/02/16 - Refine/calm down camera movements in first half.
 - 2021/02/02 - Placeholder Section B. Placeholder bridge. Try remixsakuya scene. Copypasted movements for outro. Move scene back to front of SDM (same as section A)
