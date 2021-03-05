@@ -14,6 +14,10 @@
 		- Scene 4: Remi on bridge outside her room or center pillar with full moon in background. Eyes closed. Zoom in/open eyes on last 2 beats.
 			- White/light flash as transition back into chorus? (Also works as a transition for the fx like desaturation etc)
 			- ぽろなう用ポーズ 05-11?
+		- "あたしね。。。秘密あるの。。。近い人に。。。"
+		- "I have a secret... Someone close to me... I think it's..."
+		- "an [A]ddiction"
+		- "[A]ddictionがあるの"
 	- 16 measure chorus
 	- 4 measure intro'
 	- 16 measure A'
@@ -58,6 +62,7 @@
 - B section, contrast fast dance choreo with "medium speed" camera movement. Avg every 2 beats. (1/2/4 beats, fast/med/slow)
 
 ## History
+- 2021/03/04 - Start working on bridge#2 cutscene
 - 2021/02/16 - Refine/calm down camera movements in first half.
 - 2021/02/02 - Placeholder Section B. Placeholder bridge. Try remixsakuya scene. Copypasted movements for outro. Move scene back to front of SDM (same as section A)
 - 2021/01/26-31 - Oops. Did something. Probably more camera interpolation changes.
