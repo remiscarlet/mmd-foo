@@ -51,6 +51,9 @@
 - Airhorns need more impact. Camera doesn't focus on the impact point (is transitioning)
 - chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
 - The fast camera movement sections should center Remi more. Too much jerking around <<<===
+- Fix hands sticking into skirt when hands down
+- Add resourcepack to credits (SteveN's Traditional. Missing N.)
+
  
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -72,10 +75,12 @@
 - MME: rui, ビームマンP, そぼろ, SANDMAN, データP
 - Fonts: Togalite, Pirata One, Modern Sans
 - Stage: kaiwakap, winglayer
+- Resource Pack: Steven's Traditional
 - SDM/紅魔館: remidapyon x Yukkuricraft
 - Camera, Video: remidapyon
 
 ## History
+- 2021/03/05 - Change angle at end of first sectA to show legs more. Remove 360 spin in sectA. Calm down chorus zoomouts more. Make choruses slightly more grounded maybe. Change sectB to be less busy in first half. Minor bad leg/hand position fixes - Needs more fixes throughout.
 - 2021/03/04.5 - Finish first pass bridge#2. 
 - 2021/03/04 - Start working on bridge#2 cutscene
 - 2021/02/16 - Refine/calm down camera movements in first half.
