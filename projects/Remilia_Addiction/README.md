@@ -51,7 +51,8 @@
 - Airhorns need more impact. Camera doesn't focus on the impact point (is transitioning)
 - chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
 - The fast camera movement sections should center Remi more. Too much jerking around <<<===
-
+- Sakuya leaning too far to left in thumbnail
+- Too much space on right side compared to left in thumbnail
  
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
@@ -76,6 +77,46 @@
 - Resource Pack: Steven's Traditional
 - SDM/紅魔館: remidapyon x Yukkuricraft
 - Camera, Video, Pose: remidapyon
+
+## Description
+TitleJp: 「MMD」 レミリアの「[A]ddiction」
+TitleEng: [MMD] Remilia's [A]ddiction
+
+どもす。remidapyonです。
+
+第一作からしばらく時間立ちました。まだまだ未熟者ですが前作と比べては少し腕を上げられたと思います。
+まあ、やっぱおぜうさまは最高なんでどうにかレミィの魅力を前面に出せられていれば嬉しいです。
+
+今回は幻想郷をマイクラで作ったコミュニティ「Yukkuricraft」の「幻想郷 V3」のマップを使ったステージです。
+「幻想郷 V3」のトレーラー動画はこちらです。どうぞお楽しみください：[Link Here]
+
+どうぞ、第二作の「[A]ddiction」
+
+
+Sup. remidapyon here.
+
+It's been a while since my first work. While I'm still very much learning the ropes, I'm hoping I've been able to improve my skill since my first video.
+Ultimately, I'm hoping that I was able to capture Ojou-sama's beauty and grace. 
+
+This time around I created the stage from Yukkuricraft's Genso v3 map. Yukkuricraft is the community that recreated the entirety of Gensokyo in a fully explorable public minecraft server.
+If you would like, please check out the Genso v3 Trailer here: [Link Here]
+
+Anyways, please enjoy my second work: [A]ddiction!
+
+Credits:
+[Music] Giga
+[Vocals Reol
+[Model] shin
+[Choreo] 足太ぺんた
+[Motion] hino, Tac
+[MME] rui, ビームマンP, そぼろ, SANDMAN, データP
+[Fonts] Togalite, Santa's Sleigh, Modern Sans
+[Stage] kaiwakap, winglayer
+
+[Resource Pack] Steven's Traditional
+[SDM/紅魔館 Stage] remidapyon x Yukkuricraft
+[Camera, Video, Pose] remidapyon
+
 
 ## History 
 - 2021/03/09 - Incorporate more feedback. Fix more hand-through-dress issues. Generate thumbnail on frame 6001. Changed cam angle at 2:24 to not show her back.

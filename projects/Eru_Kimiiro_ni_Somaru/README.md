@@ -41,7 +41,7 @@ Desc:
 まだまだ素人ですがお楽しみください。
 
 Sup. Eru-san randomly inspired me to learn how 2 MMD.
-Stil a complete beginner but hope you can enjoy.
+Still a complete beginner but hope you can enjoy.
 
 「カメラ配布」「Camera Motion DL」
 https://bowlroll.net/file/228133
