@@ -51,8 +51,6 @@
 - Airhorns need more impact. Camera doesn't focus on the impact point (is transitioning)
 - chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
 - The fast camera movement sections should center Remi more. Too much jerking around <<<===
-- Fix hands sticking into skirt when hands down
-- Make thumbnail pic
 
  
 ## MME/Ideas
@@ -71,15 +69,17 @@
 - Vocals: Reol
 - Model: shin
 - Choreo: 足太ぺんた
-- Motion: hino
+- Motion: hino, Tac
 - MME: rui, ビームマンP, そぼろ, SANDMAN, データP
 - Fonts: Togalite, Santa's Sleigh, Modern Sans
 - Stage: kaiwakap, winglayer
 - Resource Pack: Steven's Traditional
 - SDM/紅魔館: remidapyon x Yukkuricraft
-- Camera, Video: remidapyon
+- Camera, Video, Pose: remidapyon
 
-## History
+## History 
+- 2021/03/09 - Incorporate more feedback. Fix more hand-through-dress issues. Generate thumbnail on frame 6001. Changed cam angle at 2:24 to not show her back.
+- 2021/03/07 - Incorporate more feedback
 - 2021/03/06 - Make B section camera a bit more interesting. Add AL4 to Sakuya's eyes. Make scenes leading into final motion at end a bit more rhythmic. Continue chilling out chorus section a bit - particularly the camera motions with the snappy arm movements.
 - 2021/03/05 - Change angle at end of first sectA to show legs more. Remove 360 spin in sectA. Calm down chorus zoomouts more. Make choruses slightly more grounded maybe. Change sectB to be less busy in first half. Minor bad leg/hand position fixes - Needs more fixes throughout.
 - 2021/03/04.5 - Finish first pass bridge#2. 

@@ -108,8 +108,13 @@
     - [A]ddiction? (Oof)
     - ゴーストルール？
     - ONE OFF MIND
+- Some other 2hu
+	- ハルジオン
+- Two chars
+	- 絶え間なく藍色 (ver.めぐ)
 - Amatsu
 	- オートファジー
+
 
 ## Channels/Pages
 ### Vids/Motions
