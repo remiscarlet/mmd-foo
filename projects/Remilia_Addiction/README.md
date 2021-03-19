@@ -52,7 +52,12 @@
 - chorus in general needs to be less claustrophobic - Need contrast with the busiest section - B section.
 - The fast camera movement sections should center Remi more. Too much jerking around <<<===
 - Sakuya leaning too far to left in thumbnail
-- Too much space on right side compared to left in thumbnail
+- Too much space on right side compared to left in thumbnail 
+- =====
+- Adjust fadeout with final neck rotation keyframes in third bridge
+- Second chorus first kick, make it match second kick better
+- Make credits text bridgter or match stone flooring color better.
+- Remi feet are floating in final scene w/ credits - probably all scenes from this stage pos?
  
 ## MME/Ideas
 - This is gonna be a pain but I think I can try to hack a shin-esque flan model together with pmxe (Or just sakuya...)
