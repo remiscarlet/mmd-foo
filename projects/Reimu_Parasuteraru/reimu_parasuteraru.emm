@@ -21,6 +21,7 @@ Acs16 = G:\Google Drive\MMD\MME\_PENNENNE_FX\sdTransition102\sdTransition.x
 Acs17 = G:\Google Drive\MMD\MME\_POST AND RENDER FX\PostMovie_v1_0\PostMovie_ê‘ån.x
 Acs18 = G:\Google Drive\MMD\MME\_SOBORO FX\MotionBlur3\MotionBlur3\MotionBlur.x
 Acs19 = G:\Google Drive\MMD\MME\_MASIMASI_FX\msColorCorrection_ver.1.0\msColorCorrection.x
+Acs20 = A:\Blender\hakurei.jmc2obj\hakurei.tex.added.x
 
 [Effect]
 Default = none
@@ -40,6 +41,8 @@ Acs12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Acs12.show = true
 Acs14 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_with_sphmap.fx
 Acs14.show = true
+Acs20 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_with_sphmap.fx
+Acs20.show = true
 
 [Effect@EnvLightMap]
 Owner = Acs1
@@ -74,6 +77,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@FogMap]
 Owner = Acs1
@@ -108,6 +113,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@LightMap]
 Owner = Acs1
@@ -139,6 +146,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@MaterialMap]
 Owner = Acs1
@@ -188,6 +197,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Acs20.show = true
 
 [Effect@OutlineMap]
 Owner = Acs1
@@ -216,6 +227,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@PSSM1]
 Owner = Acs1
@@ -244,6 +257,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@PSSM2]
 Owner = Acs1
@@ -272,6 +287,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@PSSM3]
 Owner = Acs1
@@ -300,6 +317,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@PSSM4]
 Owner = Acs1
@@ -328,6 +347,8 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = none
+Acs20.show = false
 
 [Effect@SSAOMap]
 Owner = Acs1
@@ -354,6 +375,7 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 
 [Effect@VelocityRT]
 Owner = Acs18
@@ -376,4 +398,5 @@ Acs16.show = false
 Acs17.show = false
 Acs18.show = false
 Acs19.show = false
+Acs20 = G:\Google Drive\MMD\MME\_SOBORO FX\MotionBlur3\MotionBlur3\VelocityMap.fx
 

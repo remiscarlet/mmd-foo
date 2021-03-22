@@ -21,6 +21,15 @@
 	- Chorus1' - 16m   (3:34)
 	- C Sect   - 12m   (4:04)
 	- Outro/BridgeA' - 8m (4:26)
+- Blender stuff:
+	- export jmc2obj or mineways
+	- import blender
+	- Update heads with [MPHT](https://github.com/TheWeirdSquid/Minecraft-Player-Head-Tools)
+	- Fix banner textures - possibly manually?
+	- MCPrep
+	- Export to PMX
+	- Import into PmxEditor, export as .
+	- Need to find better textures
 
 ## Ideas
 - Change time of day with music? Could be a neat effect.
@@ -34,9 +43,13 @@
 - Need to replace rose bush texture
 - Desat at 0:46 a bit too noticeable
 - Remove visible lights
-
+- Some textures are default. Find other 512x to merge 
+- Prob need to fork blpymeshio and update for blender 2.8x
 
 ## History
+- 3/21/21 - render.2-d - Slight edits to model movement to smoothen out robotic looks.
+- 3/20/21 - render.2-c - New stage with jmc2obj. Needs more work.
+- 3/19/21 - render.2-b - smth
 - 3/18/21 - render.2-a - Refine motions for Chorus1. Reposition stage A sect. Add transition fx to bridgeA2
  		  - render.2   - Add motions for chorus1
 - 3/17/21 - render.1-e - Add desaturation from intro w/ resaturation in rhythm.
