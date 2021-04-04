@@ -110,6 +110,7 @@
     - ONE OFF MIND
 - Some other 2hu
 	- ハルジオン
+	- ポジティブ・パレード
 - Two chars
 	- 絶え間なく藍色 (ver.めぐ)
 - Amatsu

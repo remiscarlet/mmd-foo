@@ -47,6 +47,10 @@
 - Prob need to fork blpymeshio and update for blender 2.8x
 
 ## History
+- 4/01/21 - render.3-a - Smoothen out B section "fancy" cam movement a bit.
+- 3/23/21 - render.3   - Finish B section first pass. Switch Chorus1' back to day. Move stage.
+- 3/22/21 - render.2-f - Start first pass at B Sect. Add golden hour skydome. Add night/galaxy skydome. Adjust lighting for night scene. Add water fx.
+		  - render.2-e - A' Sect/Chorus2 first pass cam movements. Change lighting to "golden hour" at BridgeA2. Add particle fx
 - 3/21/21 - render.2-d - Slight edits to model movement to smoothen out robotic looks.
 - 3/20/21 - render.2-c - New stage with jmc2obj. Needs more work.
 - 3/19/21 - render.2-b - smth

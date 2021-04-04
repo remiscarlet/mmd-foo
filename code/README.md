@@ -18,6 +18,7 @@ idk, random stuff. Fucking with VMD content parsing.
 			- Texture export from resource pack is stalling. Gonna need to dig into source code to figure out why :(
 		- Load into blender and export as `.x`
 	- This is done via:
+		- blender 2.79. Copy blpymeshio from G:/
 		- mineways for mc world to `.obj` export
 			- Add custom texturefile
 			- Each block 1000mm
