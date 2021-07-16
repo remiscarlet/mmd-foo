@@ -1,0 +1,24 @@
+[Info]
+Version = 3
+
+[Object]
+Pmd1 = G:\Google Drive\MMD\Models\SKYDOMES\スカイドーム_夏の雲BB6_配布物\Skydome_BB6\Dome_BB603.pmx
+Pmd2 = A:\jMc2Obj\exports\alice.house\alice.house.minus.grass.and.leaves.pmx
+Pmd3 = A:\jMc2Obj\exports\alice.house\alice.house.grass.and.tallgrass.only.pmx
+Pmd4 = A:\jMc2Obj\exports\alice.house\alice.house.dark.oak.leaves.only.pmx
+Pmd5 = A:\jMc2Obj\exports\alice.house\alice.house.acacia.leaves.only.pmx
+Pmd6 = A:\jMc2Obj\exports\alice.house\alice.house.oak.leaves.only.pmx
+Pmd7 = A:\jMc2Obj\exports\alice.house\alice.house.jungle.leaves.only.pmx
+Pmd8 = A:\jMc2Obj\exports\alice.house\alice.house.birch.leaves.only.pmx
+
+[Effect]
+Default = none
+Pmd1 = none
+Pmd2 = none
+Pmd3 = none
+Pmd4 = none
+Pmd5 = none
+Pmd6 = none
+Pmd7 = none
+Pmd8 = none
+

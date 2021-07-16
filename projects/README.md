@@ -109,6 +109,7 @@
     - ゴーストルール？
     - ONE OFF MIND
 - Some other 2hu
+    - シニカルナイトプラン - Youmu? Alice?
 	- ハルジオン
 	- ポジティブ・パレード
 - Two chars

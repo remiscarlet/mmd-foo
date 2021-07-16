@@ -17,7 +17,7 @@ idk, random stuff. Fucking with VMD content parsing.
 		- export world as obj (`jMc2Obj`)
 			- Texture export from resource pack is stalling. Gonna need to dig into source code to figure out why :(
 		- Load into blender and export as `.x`
-	- This is done via:
+	- This is done via (mineways):
 		- blender 2.79. Copy blpymeshio from G:/
 		- mineways for mc world to `.obj` export
 			- Add custom texturefile
@@ -29,6 +29,11 @@ idk, random stuff. Fucking with VMD content parsing.
 		- Blender for `.obj` to `.pmx` using modified `blpymeshio`
 		- PMXEditor for `.pmx` to `.x` (`.pmx` crashes MMD due to size?)(Take advantage of AutoLuminous when exporting)
 		- MMD for importing `.x` (Load AL4 if using)
+	- jmc2obj:
+		- Just use it
+		- Should probably submit a PR for grabbing head textures from value instead of skullowner (See: [wiki](https://minecraft.fandom.com/wiki/Head#Block_data))(See: [skullowner PR](https://github.com/jmc2obj/j-mc-2-obj/issues/156))
+			- Oh shit it actually worked
+		- Need to replace grass blocks with some other flower. Weird alpha bugs on texture when using grass blocks. Doesn't seem to be caused by texture file itself but rather smth in pmx file itself?
 
 ## Notes
 - I think camera motions are a special case with bone names and don't have the "camera" string assigned but rather a special byte marker.
