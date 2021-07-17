@@ -1,7 +1,7 @@
 ## Alice - Cynical Night Plan
 シニカルナイトプラン
 
-#### Stage Export Stuff
+### Stage Export Stuff
 - Coords: (2621, 1729) <=> (2738, 1824) (May be too small - not enough trees on house's left side)
 	- Trying - (2591, 1699) <=> (2768, 1854)
 - Floor: 30, Ceil: 100
@@ -10,7 +10,7 @@
 	- Flowers
 	- Fences??? (Normal face dir seems to be screwy?)
 
-#### Stage Import Stuff...
+### Stage Import Stuff...
 It's ridiculous I need to even write something like this...
 
 Import order/model draw order:
@@ -23,8 +23,9 @@ Import order/model draw order:
 - alice_house_iron_bars_only
 - alice_house_birch_leaves_only
 
-#### MMD Stuff
-- Fug, I think Alice is missing a bone the motion needs
+### MMD Stuff
+- ~~Fug, I think Alice is missing a bone the motion needs~~
+	- Lol just using a different model.
 
 ## History
 - 2021/07/17 - Basic project setup. Lighting, materials, dummy bones. Might consider scaling models up/down. Use `scalecontrol.pmd`?

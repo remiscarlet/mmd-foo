@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "e66a4ded07f1c8e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dca7bab6141d8a1",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "projects/Alice_Cynical_Night_Plan/MikuMikuDance_NSVuDdgPHQ.jpg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8aa9a2ad054fa211",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a80985c5f8e77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27993a7c1c689325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b846a134c40b690",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dec55a6b5e79da2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd114927d105a012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "883981a1149a355f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/Alice_Cynical_Night_Plan/MikuMikuDance_NSVuDdgPHQ.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7dca7bab6141d8a1",
+  "lastOpenFiles": [
+    "projects/Alice_Cynical_Night_Plan/MikuMikuDance_NSVuDdgPHQ.jpg",
+    "projects/Alice_Cynical_Night_Plan/README.md.md",
+    "projects/Remilia_Addiction/README.md",
+    "projects/README.md",
+    "projects/Alice_Cynical_Night_Plan/Untitled.md",
+    "code/README.md",
+    "code/README (1).md",
+    "projects/Remilia_Addiction/thumbnail.w.text.png",
+    "projects/Remilia_Addiction/thumbnail.png",
+    "projects/Remilia_Addiction/thumbnail.bmp"
+  ]
+}
