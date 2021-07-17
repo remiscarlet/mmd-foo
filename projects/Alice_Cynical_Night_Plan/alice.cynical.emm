@@ -14,8 +14,11 @@ Pmd9 = A:\jMc2Obj\exports\alice.house\alice_house_jungle_leaves_only.pmx
 Pmd10 = A:\jMc2Obj\exports\alice.house\alice_house_oak_leaves_only.pmx
 Pmd11 = A:\jMc2Obj\exports\alice.house\alice_house_iron_bars_only.pmx
 Pmd12 = A:\jMc2Obj\exports\alice.house\alice_house_birch_leaves_only.pmx
-Pmd13 = G:\Google Drive\MMD\Models\Characters\AliceV034X3a\アリスV034_X3a.pmd
-Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray_controller.pmx
+Pmd13 = G:\Google Drive\MMD\Models\Characters\アリス_マーガトロイドVer0.90_Rev.B\アリス_マーガトロイドVer0.90_Rev.B\アリス_マーガトロイドVer0.90_Rev.B\Model\アリスマーガトロイドVer0.90(ダンス_ラウンドカラーケープ_ロングスカート_ロングブーツ).pmx
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\PointLight.pmx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\PointLight.pmx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\DirectionalLight.pmx
+Pmd18 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray_controller.pmx
 
 [Effect]
 Default = none
@@ -28,21 +31,25 @@ Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Pmd5.show = true
 Pmd6 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
 Pmd6.show = true
-Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
+Pmd6[0] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_2.0.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd7.show = true
-Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd8.show = true
-Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
+Pmd9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd9.show = true
-Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
+Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd10.show = true
-Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
+Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd11.show = true
-Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main_ex_alpha.fx
+Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd12.show = true
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
 Pmd13.show = true
 Pmd15 = none
+Pmd16 = none
+Pmd17 = none
+Pmd18 = none
 
 [Effect@EnvLightMap]
 Owner = Acs1
@@ -73,6 +80,12 @@ Pmd13 = none
 Pmd13.show = false
 Pmd15 = none
 Pmd15.show = false
+Pmd16 = none
+Pmd16.show = false
+Pmd17 = none
+Pmd17.show = false
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@FogMap]
 Owner = Acs1
@@ -103,6 +116,12 @@ Pmd13 = none
 Pmd13.show = false
 Pmd15 = none
 Pmd15.show = false
+Pmd16 = none
+Pmd16.show = false
+Pmd17 = none
+Pmd17.show = false
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@LightMap]
 Owner = Acs1
@@ -131,8 +150,11 @@ Pmd12 = none
 Pmd12.show = false
 Pmd13 = none
 Pmd13.show = false
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\PointLight\Default\point_lighting.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\PointLight\Default\point_lighting.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\DirectionalLight\Default\directional_lighting.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@MaterialMap]
 Owner = Acs1
@@ -149,8 +171,31 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd13[0] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
+Pmd13[1] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd13[2] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd13[3] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd13[6] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\body.fx
+Pmd13[7] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd13[9] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil2-Advanced.fx
+Pmd13[10] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1-Silky.fx
+Pmd13[11] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\raycast_cloth_effect_remake__dl_by_lylacthelily\material_cloth_custom.fx
+Pmd13[12] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd13[13] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1-Silky.fx
+Pmd13[14] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Leather Raycast NormalMap Pack\Material2-Basic.fx
+Pmd13[15] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Leather Raycast NormalMap Pack\Material2-Basic.fx
+Pmd13[16] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Leather Raycast NormalMap Pack\Material2-Basic.fx
+Pmd13[17] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1-Basic.fx
+Pmd13[18] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Hair\material_hair_sss.fx
+Pmd13[20] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Hair\material_hair_sss.fx
+Pmd13[22] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil2-Basic.fx
+Pmd13[23] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil2-Basic.fx
+Pmd13[24] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil2-Basic.fx
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\Emissive\material_lighting.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\Emissive\material_lighting.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\Emissive\material_lighting.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@OutlineMap]
 Owner = Acs1
@@ -167,8 +212,11 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@PSSM1]
 Owner = Acs1
@@ -185,8 +233,11 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@PSSM2]
 Owner = Acs1
@@ -203,8 +254,11 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@PSSM3]
 Owner = Acs1
@@ -221,8 +275,11 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@PSSM4]
 Owner = Acs1
@@ -239,8 +296,11 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd18 = none
+Pmd18.show = false
 
 [Effect@SSAOMap]
 Owner = Acs1
@@ -257,6 +317,9 @@ Pmd10 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd11 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd12 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd13 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
-Pmd15 = none
-Pmd15.show = false
+Pmd15 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd16 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd17 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd18 = none
+Pmd18.show = false
 
