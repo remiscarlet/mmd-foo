@@ -25,3 +25,7 @@ Import order/model draw order:
 
 #### MMD Stuff
 - Fug, I think Alice is missing a bone the motion needs
+
+## History
+- 2021/07/17 - Basic project setup. Lighting, materials, dummy bones. Might consider scaling models up/down. Use `scalecontrol.pmd`?
+- 2021/07/15-16 - Create stage. MMD model render order is a pita.
