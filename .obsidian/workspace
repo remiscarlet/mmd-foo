@@ -7,9 +7,10 @@
         "id": "7dca7bab6141d8a1",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "projects/Alice_Cynical_Night_Plan/MikuMikuDance_NSVuDdgPHQ.jpg"
+            "file": "projects/Alice_Cynical_Night_Plan/README.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Alice_Cynical_Night_Plan/MikuMikuDance_NSVuDdgPHQ.jpg",
+                "file": "projects/Alice_Cynical_Night_Plan/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "7dca7bab6141d8a1",
   "lastOpenFiles": [
+    "projects/Alice_Cynical_Night_Plan/README.md",
+    "code/README (1).md",
+    "code/README.md",
     "projects/Alice_Cynical_Night_Plan/MikuMikuDance_NSVuDdgPHQ.jpg",
     "projects/Alice_Cynical_Night_Plan/README.md.md",
     "projects/Remilia_Addiction/README.md",
     "projects/README.md",
     "projects/Alice_Cynical_Night_Plan/Untitled.md",
-    "code/README.md",
-    "code/README (1).md",
     "projects/Remilia_Addiction/thumbnail.w.text.png",
-    "projects/Remilia_Addiction/thumbnail.png",
-    "projects/Remilia_Addiction/thumbnail.bmp"
+    "projects/Remilia_Addiction/thumbnail.png"
   ]
 }

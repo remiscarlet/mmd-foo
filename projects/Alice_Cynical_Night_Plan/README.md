@@ -23,9 +23,20 @@ Import order/model draw order:
 - alice_house_iron_bars_only
 - alice_house_birch_leaves_only
 
-### MMD Stuff
+### MMD Notes
 - ~~Fug, I think Alice is missing a bone the motion needs~~
 	- Lol just using a different model.
+
+### Section Planning
+- Pre-Intro (4m) - Closeups/slightly fast zoom away?
+- Intro (8m) - Add credits with 4 scenes 2 measures each. Alice stands to left or right sides with credit text on opposite side
+- VerseA (8m)
+- VerseB (8m) (end has the stair walk up/down)
+- Chorus (8m)
+- Intro (8m) - Semi fancy cams
+- Bridge (8m)
+- VerseC
+- 
 
 ## History
 - 2021/07/17 - Basic project setup. Lighting, materials, dummy bones. Might consider scaling models up/down. Use `scalecontrol.pmd`?
