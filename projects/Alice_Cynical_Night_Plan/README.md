@@ -26,6 +26,7 @@ Import order/model draw order:
 ### MMD Notes
 - ~~Fug, I think Alice is missing a bone the motion needs~~
 	- Lol just using a different model.
+- 0:40 Don't pan horizontally again. Vertical?
 
 ### Weird UV Mapping Thing on Transparent Textures
 - Most obvious on `tall_grass.png` tetxures where it seems the very top line of pixels being rendered is actually wrapping and displaying the very bottom row of pixels.
