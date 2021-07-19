@@ -49,17 +49,20 @@
 ## History
 - 4/01/21 - render.3-a - Smoothen out B section "fancy" cam movement a bit.
 - 3/23/21 - render.3   - Finish B section first pass. Switch Chorus1' back to day. Move stage.
-- 3/22/21 - render.2-f - Start first pass at B Sect. Add golden hour skydome. Add night/galaxy skydome. Adjust lighting for night scene. Add water fx.
-		  - render.2-e - A' Sect/Chorus2 first pass cam movements. Change lighting to "golden hour" at BridgeA2. Add particle fx
+- 3/22/21
+	- render.2-f - Start first pass at B Sect. Add golden hour skydome. Add night/galaxy skydome. Adjust lighting for night scene. Add water fx.
+	- render.2-e - A' Sect/Chorus2 first pass cam movements. Change lighting to "golden hour" at BridgeA2. Add particle fx
 - 3/21/21 - render.2-d - Slight edits to model movement to smoothen out robotic looks.
 - 3/20/21 - render.2-c - New stage with jmc2obj. Needs more work.
 - 3/19/21 - render.2-b - smth
-- 3/18/21 - render.2-a - Refine motions for Chorus1. Reposition stage A sect. Add transition fx to bridgeA2
- 		  - render.2   - Add motions for chorus1
-- 3/17/21 - render.1-e - Add desaturation from intro w/ resaturation in rhythm.
-		  - render.1-d - Cam movements up to 2nd chorus. ~1:15. Fix visible point/sphere/dir lights
-	      - render.1-c - Remove croquis. Add up to ~1:00 of cam movement
-          - render.1-b - Try croquis
-          - render.1-a - Add postmovie fx. Slight vignetting. More render/shader tweaks.
+- 3/18/21 
+	- render.2-a - Refine motions for Chorus1. Reposition stage A sect. Add transition fx to bridgeA2
+	- render.2   - Add motions for chorus1
+- 3/17/21
+	- render.1-e - Add desaturation from intro w/ resaturation in rhythm.
+	- render.1-d - Cam movements up to 2nd chorus. ~1:15. Fix visible point/sphere/dir lights
+	- render.1-c - Remove croquis. Add up to ~1:00 of cam movement
+	- render.1-b - Try croquis
+	- render.1-a - Add postmovie fx. Slight vignetting. More render/shader tweaks.
 - 3/16/21 - render.1   - Create workaround for bad mineways texture exports (RCA?). Add ~20 seconds of camera motions. Adjust lighting/shading/materials.
 - 3/15/21 - Create Hakurei shrine stage
