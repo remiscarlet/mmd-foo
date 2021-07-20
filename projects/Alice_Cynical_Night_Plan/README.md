@@ -51,6 +51,59 @@ Import order/model draw order:
 - Instrumental (8m)(2:54-3:10)
 - Instrumental/Outro (4m)(3:10-3:18/end)
 
+## Credits
+- Music: Ayase
+- Vocals: くろくも
+- Model: Arlvit
+- Choreo: わに
+- Motion: リングイネ
+- MME: rui, ビームマンP, そぼろ, SANDMAN, データP
+- Fonts: Togalite, Santa's Sleigh, Modern Sans
+- Stage: kaiwakap, winglayer
+- Resource Pack: Steven's Traditional
+- Alice's House/アリスの家: remidapyon x Yukkuricraft
+- Camera, Video, Pose: remidapyon
+
+### Description
+TitleJp: 「MMD」 レミリアの「[A]ddiction」
+TitleEng: [MMD] Remilia's [A]ddiction
+
+どもす。remidapyonです。
+
+第一作からしばらく時間立ちました。まだまだ未熟者ですが前作と比べては少し腕を上げられたと思います。
+まあ、やっぱおぜうさまは最高なんでどうにかレミィの魅力を前面に出せられていれば嬉しいです。
+
+今回は幻想郷をマイクラで作ったコミュニティ「Yukkuricraft」の「幻想郷 V3」のマップを使ったステージです。
+「幻想郷 V3」のトレーラー動画はこちらです。どうぞお楽しみください：[Link Here]
+
+どうぞ、第二作の「[A]ddiction」
+
+
+Sup. remidapyon here.
+
+It's been a while since my first work. While I'm still very much learning the ropes, I'm hoping I've been able to improve my skill since my first video.
+Ultimately, I'm hoping that I was able to capture Ojou-sama's beauty and grace. 
+
+This time around I created the stage from Yukkuricraft's Genso v3 map. Yukkuricraft is the community that recreated the entirety of Gensokyo in a fully explorable public minecraft server.
+If you would like, please check out the Genso v3 Trailer here: [Link Here]
+
+Anyways, please enjoy my second work: [A]ddiction!
+
+Credits:
+[Music] Giga
+[Vocals Reol
+[Model] shin
+[Choreo] 足太ぺんた
+[Motion] hino, Tac
+[MME] rui, ビームマンP, そぼろ, SANDMAN, データP
+[Fonts] Togalite, Santa's Sleigh, Modern Sans
+[Stage] kaiwakap, winglayer
+
+[Resource Pack] Steven's Traditional
+[SDM/紅魔館 Stage] remidapyon x Yukkuricraft
+[Camera, Video, Pose] remidapyon
+
+
 ## History
 - 2021/07/19
 	- render.4 - Clean up/smooth out a lot of the interpolation heavy movements. Add motions for first half of bridge (~1:43)
@@ -58,7 +111,10 @@ Import order/model draw order:
 	- render.5-a - Smooth out a lot of the faster cam motions - particularly with better framing. Add a bit more motion ~2:22
 	- render.5-b - Fix a ton of arm/hand clipping problems.
 	- render.6 - Cam motions up till final instrumental ~2:54. Fix more arm clippings.
-	- render.7 - Wow. Finished all cam movements. Still need to refine a bunch of stuff.
+	- render.7 - Finished first final draft cam movements. Still need to refine a bunch of stuff.
+	- render.7-a - Fix the パンチラ oops. Extend idle animation and fade out at end. Lower dirt and grass material specular vals. Increase EnvSpecDiff. Increase SSAO. Bump exposure up a _tiny_ bit. (Overexposing causes house walls to white out...)
+	- render.7-b - Smooth out transition between Chorus/Chorus'. Move stage to Forest of Magic instead of front of house for intro. Smooth/fix misc minor motions.
+	- render.7-c - Connect transition at ~2:02. Lighting tweaks - gamma down, contrast up, exposure up. Tweak timing of transition at 2:14-2:15
 - 2021/07/18
 	- render.1 - Intro first pass up to ~0:24. More material/lighting tweaks.
 	- render.2 - Cam motion up to ~0:50. Add fade fx. 
