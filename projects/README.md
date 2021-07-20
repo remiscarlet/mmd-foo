@@ -99,22 +99,26 @@
 - AA
 
 ### Project Ideas
+- Do first releases for cam motions with 2hu only - maybe even YC only. Do subsequent "配布版"s with non-2hu chars with adjusted cam motions.
 - Remi
     - shin's レミリア・スカーレットver1.01
     - 紅魔城
     	- ooh, make one eye glow with emissive mat
+    - [A]ddiction? (Oof)
     - Cyber?
     - 乙女解剖?
-    - [A]ddiction? (Oof)
     - ゴーストルール？
     - ONE OFF MIND
-- Some other 2hu
-    - シニカルナイトプラン - Youmu? Alice?
-	- ハルジオン
+- Alice
+    - シニカルナイトプラン
+- Reimu
 	- ポジティブ・パレード
+- Some other 2hu
+	- ハルジオン
 - Two chars
 	- 絶え間なく藍色 (ver.めぐ)
 - Amatsu
+	- 【配布版】シニカルナイトプラン
 	- オートファジー
 
 
