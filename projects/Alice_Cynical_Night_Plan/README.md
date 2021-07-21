@@ -80,42 +80,27 @@ Camera, Video, Pose:
     remidapyon
 
 ### Description
-TitleJp: 「MMD」 レミリアの「[A]ddiction」
-TitleEng: [MMD] Remilia's [A]ddiction
+TitleJp:「MMD」アリスのシニカルナイトプラン
+TitleEng:「MMD」Alice's Cynical Night Plan
 
 どもす。remidapyonです。
-
-第一作からしばらく時間立ちました。まだまだ未熟者ですが前作と比べては少し腕を上げられたと思います。
-まあ、やっぱおぜうさまは最高なんでどうにかレミィの魅力を前面に出せられていれば嬉しいです。
-
-今回は幻想郷をマイクラで作ったコミュニティ「Yukkuricraft」の「幻想郷 V3」のマップを使ったステージです。
-「幻想郷 V3」のトレーラー動画はこちらです。どうぞお楽しみください：[Link Here]
-
-どうぞ、第二作の「[A]ddiction」
 
 
 Sup. remidapyon here.
 
-It's been a while since my first work. While I'm still very much learning the ropes, I'm hoping I've been able to improve my skill since my first video.
-Ultimately, I'm hoping that I was able to capture Ojou-sama's beauty and grace. 
-
-This time around I created the stage from Yukkuricraft's Genso v3 map. Yukkuricraft is the community that recreated the entirety of Gensokyo in a fully explorable public minecraft server.
-If you would like, please check out the Genso v3 Trailer here: [Link Here]
-
-Anyways, please enjoy my second work: [A]ddiction!
 
 Credits:
-[Music] Giga
-[Vocals Reol
-[Model] shin
-[Choreo] 足太ぺんた
-[Motion] hino, Tac
-[MME] rui, ビームマンP, そぼろ, SANDMAN, データP
-[Fonts] Togalite, Santa's Sleigh, Modern Sans
-[Stage] kaiwakap, winglayer
+[Music] Ayase
+[Vocals] くろくも
+[Model] Arivit
+[Choreo] わに
+[Motion] リングイネ
+[MME] rui, そぼろ, ビームマンP,  ましまし,  SANDMAN , ikeno
+[Fonts] Togalite
+[Skydome] kaiwakap
 
 [Resource Pack] Steven's Traditional
-[SDM/紅魔館 Stage] remidapyon x Yukkuricraft
+[Alice's House/アリスの家 Stage] remidapyon x Yukkuricraft
 [Camera, Video, Pose] remidapyon
 
 
@@ -123,6 +108,7 @@ Credits:
 - 2021/07/20
 	- render.8 - Add credits as 3d objects using Blender.
 	- render.8-a - Lots of material adjustments for credits text. Outline on, texture as blue concrete powder for titles and lapis lazuli for names, add toon01, set reflection ~103-105 (AL4). Reposition credits text and camera for better framing.
+	- render.8-b - Adjust intro cam work a bit. Adjust framing to emphasize skirt spin a bit more at ~2:28 and ~2:38. Redo "arm slams" at 2:39-2:41
 - 2021/07/19
 	- render.4 - Clean up/smooth out a lot of the interpolation heavy movements. Add motions for first half of bridge (~1:43)
 	- render.5 - Lots of new cam motion. ~2:13
