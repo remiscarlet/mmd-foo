@@ -57,12 +57,27 @@ Import order/model draw order:
 - Model: Arlvit
 - Choreo: わに
 - Motion: リングイネ
-- MME: rui, ビームマンP, そぼろ, SANDMAN, データP
-- Fonts: Togalite, Santa's Sleigh, Modern Sans
-- Stage: kaiwakap, winglayer
+- MME: rui, そぼろ, ビームマンP,  ましまし,  SANDMAN , ikeno
+- Fonts: Togalite
+- Stage: kaiwakap
 - Resource Pack: Steven's Traditional
 - Alice's House/アリスの家: remidapyon x Yukkuricraft
 - Camera, Video, Pose: remidapyon
+
+Music: Ayase
+Vocals: くろくも
+
+Model: Arivit
+Choreo: わに   Motion: リングイネ
+Fonts: Togalite  Skybox: Kaiwakap
+MME: rui, そぼろ, ビームマンP,  ましまし,
+           SANDMAN , ikeno
+		   
+Resource Pack: Steven's Traditional
+Alice's House/アリスの家:
+    remidapyon x Yukkuricraft
+Camera, Video, Pose:
+    remidapyon
 
 ### Description
 TitleJp: 「MMD」 レミリアの「[A]ddiction」
@@ -105,6 +120,9 @@ Credits:
 
 
 ## History
+- 2021/07/20
+	- render.8 - Add credits as 3d objects using Blender.
+	- render.8-a - Lots of material adjustments for credits text. Outline on, texture as blue concrete powder for titles and lapis lazuli for names, add toon01, set reflection ~103-105 (AL4). Reposition credits text and camera for better framing.
 - 2021/07/19
 	- render.4 - Clean up/smooth out a lot of the interpolation heavy movements. Add motions for first half of bridge (~1:43)
 	- render.5 - Lots of new cam motion. ~2:13
