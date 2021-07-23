@@ -112,9 +112,12 @@
 - Alice
     - シニカルナイトプラン
 - Reimu
+	- イロドリミライ
 	- ポジティブ・パレード
 - Some other 2hu
 	- ハルジオン
+- Cirno
+	- とくべつな音色が素晴らしい
 - Two chars
 	- 絶え間なく藍色 (ver.めぐ)
 - Amatsu

@@ -28,8 +28,9 @@ Import order/model draw order:
 	- Lol just using a different model.
 - ~~0:40 Don't pan horizontally again. Vertical?~~
 	- Completely redid section
-- Intro - Y of stage isn't right. Shoes clips through ground.
-- ~0:27 - DoF focuses on hand
+- ~~Intro - Y of stage isn't right. Shoes clips through ground.~~
+- ~~0:27 - DoF focuses on hand~~
+- Fade to black isn't full black because of... some conflicting effects.
 
 ### Weird UV Mapping Thing on Transparent Textures
 - Most obvious on `tall_grass.png` tetxures where it seems the very top line of pixels being rendered is actually wrapping and displaying the very bottom row of pixels.
@@ -105,6 +106,10 @@ Credits:
 
 
 ## History
+- 2021/07/22
+	- render.8-d - Remove "dolley off screen"s at ~0:35 and ~0:40. Fix non-true darkness on fadeouts caused by iklightrays.
+- 2021/07/21
+	- render.8-c - Oops didn't have `main.fx` on any of the credit pmxs. Adjust AL4 for readability on credits. Add blue petals to camera tilt in intro. Add lightrays and fogs to intro. Replace HW filter with RC filter. Increase exposure a bit in first ~30 seconds.
 - 2021/07/20
 	- render.8 - Add credits as 3d objects using Blender.
 	- render.8-a - Lots of material adjustments for credits text. Outline on, texture as blue concrete powder for titles and lapis lazuli for names, add toon01, set reflection ~103-105 (AL4). Reposition credits text and camera for better framing.
