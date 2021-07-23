@@ -1,0 +1,207 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray.x
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of night\Time of night.pmx
+Pmd3 = A:\jMc2Obj\exports\hakurei2test\shrine_front.pmx
+Pmd4 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\ray_controller.pmx
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\DirectionalLight.pmx
+Pmd7 = G:\Google Drive\MMD\Models\Characters\kaoruŽ®_”Ž—í—ì–²1.00\”Ž—í—ì–²_“~•ž(ver.kaoru)1.00.pmx
+Pmd8 = G:\Google Drive\MMD\MME\WorldSnow\WorldParticleController.pmd
+Acs9 = G:\Google Drive\MMD\MME\WorldSnow\WorldSnow.x
+Acs10 = G:\Google Drive\MMD\MME\_IKENO_FX\iKclut_RC_Cinema\LOG\Log.x
+
+[Effect]
+Default = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of night\Time of night.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd3.show = true
+Pmd4 = none
+Pmd5 = none
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Pmd7.show = true
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
+Acs9 = G:\Google Drive\MMD\MME\WorldSnow\WorldSnow.fx
+
+[Effect@EnvLightMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of night\Time of lighting.fx
+Pmd2.show = true
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@FogMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Skybox\Time of night\Time of fog.fx
+Pmd2.show = true
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = none
+Pmd5.show = false
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@LightMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = none
+Pmd2.show = false
+Pmd3 = none
+Pmd3.show = false
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Lighting\DirectionalLight\Default\directional_lighting.fx
+Pmd7 = none
+Pmd7.show = false
+Pmd8 = none
+Pmd8.show = false
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@MaterialMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\material_skybox.fx
+Pmd2.show = true
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd3[1] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x2\material_albedo_x2.fx
+Pmd3[14] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x1\material_albedo_x1.1.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\Emissive\material_lighting.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Pmd7[0] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\body.fx
+Pmd7[1] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\body.fx
+Pmd7[2] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\body.fx
+Pmd7[3] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
+Pmd7[4] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
+Pmd7[5] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
+Pmd7[13] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
+Pmd7[14] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
+Pmd7[15] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
+Pmd7[16] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
+Pmd7[17] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Basic.fx
+Pmd7[18] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
+Pmd7[19] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Basic.fx
+Pmd7[20] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Basic.fx
+Pmd7[21] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd7[22] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Basic.fx
+Pmd7[23] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Basic.fx
+Pmd7[24] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil2-Basic.fx
+Pmd7[25] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Leather Raycast NormalMap Pack\Material3-Basic.low.specular.fx
+Pmd7[27] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil3-Basic.fx
+Pmd7[30] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd7[31] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil3-Silky.fx
+Pmd7[33] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd7[34] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Leather Raycast NormalMap Pack\Material3-Basic.low.specular.fx
+Pmd7[35] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@OutlineMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@PSSM1]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@PSSM2]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@PSSM3]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@PSSM4]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
+Acs9 = none
+Acs9.show = false
+Acs10.show = false
+
+[Effect@SSAOMap]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd3 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd4 = none
+Pmd4.show = false
+Pmd5 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Acs9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
+Acs10.show = false
+
