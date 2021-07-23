@@ -11,6 +11,7 @@ Pmd7 = G:\Google Drive\MMD\Models\Characters\kaoruŽ®_”Ž—í—ì–²1.00\”Ž—í—ì–²_“~•ž(
 Pmd8 = G:\Google Drive\MMD\MME\WorldSnow\WorldParticleController.pmd
 Acs9 = G:\Google Drive\MMD\MME\WorldSnow\WorldSnow.x
 Acs10 = G:\Google Drive\MMD\MME\_IKENO_FX\iKclut_RC_Cinema\LOG\Log.x
+Acs11 = G:\Google Drive\MMD\MME\_MASIMASI_FX\msBrightnessVintage_ver1.0\msBrightnessVintage.x
 
 [Effect]
 Default = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Main\main.fx
@@ -42,6 +43,7 @@ Pmd8.show = false
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@FogMap]
 Owner = Acs1
@@ -61,6 +63,7 @@ Pmd8.show = false
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@LightMap]
 Owner = Acs1
@@ -79,6 +82,7 @@ Pmd8.show = false
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@MaterialMap]
 Owner = Acs1
@@ -98,6 +102,13 @@ Pmd7[2] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\bod
 Pmd7[3] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
 Pmd7[4] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
 Pmd7[5] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Ai_Skin\face.fx
+Pmd7[6] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd7[7] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd7[8] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd7[9] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Skin\TDA\material_TDA_face.fx
+Pmd7[10] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd7[11] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
+Pmd7[12] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\ClearCoat\material_albedo.fx
 Pmd7[13] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
 Pmd7[14] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
 Pmd7[15] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\TDA Hair\TDA_Hair2.fx
@@ -117,10 +128,13 @@ Pmd7[31] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Rayc
 Pmd7[33] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
 Pmd7[34] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Leather Raycast NormalMap Pack\Material3-Basic.low.specular.fx
 Pmd7[35] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Downloaded\Cloth Raycast NormalMap Pack\Textil1V2-Silky.fx
+Pmd7[36] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x1\material_albedo_x1.15.fx
+Pmd7[37] = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\Materials\Emissive\Fixed Color x1\material_albedo_x1.2.fx
 Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\materials\material_2.0.fx
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@OutlineMap]
 Owner = Acs1
@@ -135,6 +149,7 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\outline\Fixed Color\outline.fx
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@PSSM1]
 Owner = Acs1
@@ -149,6 +164,7 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM1.fx
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@PSSM2]
 Owner = Acs1
@@ -163,6 +179,7 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM2.fx
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@PSSM3]
 Owner = Acs1
@@ -177,6 +194,7 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM3.fx
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@PSSM4]
 Owner = Acs1
@@ -191,6 +209,7 @@ Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\PSSM4.fx
 Acs9 = none
 Acs9.show = false
 Acs10.show = false
+Acs11.show = false
 
 [Effect@SSAOMap]
 Owner = Acs1
@@ -204,4 +223,5 @@ Pmd7 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Pmd8 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Acs9 = G:\Google Drive\MMD\MME\ray-mmd-1.5.2\shadow\SSAO visibility 1.0.fx
 Acs10.show = false
+Acs11.show = false
 
