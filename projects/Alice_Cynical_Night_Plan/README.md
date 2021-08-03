@@ -30,7 +30,8 @@ Import order/model draw order:
 	- Completely redid section
 - ~~Intro - Y of stage isn't right. Shoes clips through ground.~~
 - ~~0:27 - DoF focuses on hand~~
-- Fade to black isn't full black because of... some conflicting effects.
+- ~~Fade to black isn't full black because of... some conflicting effects.~~
+- The dirlight intensity change in intro is a bit too noticeable maybe
 
 ### Weird UV Mapping Thing on Transparent Textures
 - Most obvious on `tall_grass.png` tetxures where it seems the very top line of pixels being rendered is actually wrapping and displaying the very bottom row of pixels.
@@ -86,8 +87,22 @@ TitleEng:「MMD」Alice's Cynical Night Plan
 
 どもす。remidapyonです。
 
+第三作めとなります。今回はカメラの動きに集中し、なんとか作ってみました。心の癒やすアリスの舞い踊り、いかがですか？
+
+また今回は幻想郷をマイクラで作ったコミュニティ「Yukkuricraft」の「幻想郷 V3」のマップを使ったステージです。
+「幻想郷 V3」のトレーラー動画はこちらです。どうぞお楽しみください：[Link Here]
+
+どうぞ、第三作の「シニカルナイトプラン」
+
 
 Sup. remidapyon here.
+
+This marks my third work so far. I tried to focus much more on the camerawork this time around. Alice is dancing the night away - Will you join her?
+
+Once again, I created the stage from Yukkuricraft's Genso v3 map. Yukkuricraft is the community that recreated the entirety of Gensokyo in a fully explorable public minecraft server.
+If you would like, please check out the Genso v3 Trailer here: [Link Here]
+
+Anyways, please enjoy my third work: Cynical Night Plan!
 
 
 Credits:
@@ -106,6 +121,8 @@ Credits:
 
 
 ## History
+- 2021/08/02
+	- render.8-e - Fix a ton of hand-clipping-through-skirt bits. Reposition intro bits stage at parts. Move lighting around in intro to be a bit more interesting. Lower specularity on eyeball materials (less reflective). Create thumbnail.
 - 2021/07/22
 	- render.8-d - Remove "dolley off screen"s at ~0:35 and ~0:40. Fix non-true darkness on fadeouts caused by iklightrays.
 - 2021/07/21
